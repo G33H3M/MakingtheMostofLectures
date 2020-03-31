@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Making the Most of Lectures"
 navbar:
-  title: "MyLabJournal"
+  title: "Making the Most of Lectures"
   left:
     - text: "Home"
       href: index.html
