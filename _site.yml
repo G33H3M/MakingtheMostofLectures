@@ -1,11 +1,13 @@
-name: "Making the Most of Lectures"
+name: "MTML"
 navbar:
   title: "Making the Most of Lectures"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Time Keeping"
       href: Journal.html
+    - text: "Goal Setting"
+      href: Goal_Setting.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"
