@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Time Keeping"
-      href: Journal.html
+      href: Time_Keeping.html
     - text: "Goal Setting"
       href: Goal_Setting.html
     - text: "Links"
