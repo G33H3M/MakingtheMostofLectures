@@ -8,6 +8,16 @@ navbar:
       href: Time_Keeping.html
     - text: "Goal Setting"
       href: Goal_Setting.html
+    - text: "Note Taking"
+      href: Note_Taking.html
+    - text: "Revising"
+      href: Revising.html
+    - text: "Seeking Help"
+      href: Seeking_Help.html
+    - text: "Additional Resources"
+      href: Additional_Resources.html
+    - text: "Going Forward"
+      href: Going_Forward.html
     - text: "Links"
       href: Links.html
 output_dir: "docs"
