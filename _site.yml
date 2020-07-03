@@ -1,6 +1,6 @@
 name: "MTML"
 navbar:
-  title: ""
+  title: "University of Glasgow"
   left:
     - text: "Home"
       href: index.html
@@ -18,6 +18,8 @@ navbar:
       href: Additional_Resources.html
     - text: "Going Forward"
       href: Going_Forward.html
+    - text: "Online Learning"
+      href: Online_Learning.html
 output_dir: "docs"
 output:
   html_document:
