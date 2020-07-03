@@ -1,6 +1,6 @@
 name: "MTML"
 navbar:
-  title: "University of Glasgow"
+  title: ""
   left:
     - text: "Home"
       href: index.html
