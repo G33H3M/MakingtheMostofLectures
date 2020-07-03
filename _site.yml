@@ -1,6 +1,6 @@
 name: "MTML"
 navbar:
-  title: ""
+  title: " "
   left:
     - text: "Home"
       href: index.html
