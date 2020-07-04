@@ -16,7 +16,9 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
-# Tutorial
+# Tutorial: Organising Your Time Around Your Lectures
+
+#### Before attempting the tasks below, have a quick read at this short tutorial on the importance of organising your time around lecture attendance. Your attendance might involve going to the lecture hall or it might involve joining an online lecture with your fellow students. In both cases, your attendance is important, and you should prioritise time to engage with lecture materials (remotely and/or on campus). 
 
 The aim of this section is to get you to think about time management: scheduling, planning, and reviewing your time around lectures. We encourage you to set aside blocks of time dedicated to revising lecture content and to plan ahead to make sure you can attend your lectures on campus or from a [virtual learning environment](https://g33h3m.github.io/MakingtheMostofLectures/Online_Learning.html) (e.g. Zoom). Having a think about how your entire semester will look should help you to plan your week and set [realistic goals](https://g33h3m.github.io/MakingtheMostofLectures/Goal_Setting.html).
 
@@ -42,9 +44,23 @@ In this folder you will find a planner, which you can customise for each week of
 
 In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture, then you can use this slot to catchup on a missed lecture. Whilst attending a live lecture is most effective, it is preferable to catch up with a lecture recording than not at all. Keep on top of your workload (around your weekly lectures) by planning ahead. 
 
-[Download my book!](downloads/Timetable_Semester_Example.pdf)
+* [Example of a Semester Planner](downloads/Timetable_Semester_Example.pdf)
+
+* [Example of a Weekly Planner](downloads/Timetable_Weekly_Example.pdf)
+
+<br>
 
 # Tasks
 ### Task 1: Complete Your Semester Planner
 
+* [Blank Template for a Semester Planner](downloads/Timetable_Semester.docx)
+
 ### Task 2: Complete Your Weekly Planner
+
+* [Blank Template for a Weekly Planner](downloads/Timetable_Weekly.docx)
+
+<br>
+
+# Going Forward
+
+The 'Going Forward' section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

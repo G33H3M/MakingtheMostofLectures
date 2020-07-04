@@ -14,33 +14,117 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-# Tutorial
-### Organising Your Time Around Your Lectures
+<br>
 
-The aim of this section is to get you to think about time management: scheduling, planning, and reviewing your time around lectures. We encourage you to set aside blocks of time dedicated to revising lecture content and to plan ahead to make sure you can attend your lectures live. Having a think about how your entire semester will look should help you to plan your week and set realistic goals.
+# Tutorial: Building SMART Lecture Goals into Your Planner
 
-For many students, being at university is an exciting time of change and new opportunities. You might find that learning at university is somewhat different from your experience of previous educational establishments, and learning in the lecture hall may be one of those differences. For many, being taught in lectures is something that you first experience at university. Your timetable will probably be sparser than when you were at school or college, and so you will have to undertake a lot more _independent_ studying. The amount of independent study required, is also likely increase as you progress to the later years of your degree.
+Now that you have an idea of how your semester will look and when your key deadlines are, you have a timeframe in which you can create SMART goals for interacting with your lecture content. SMART stands for:
 
-When devising a timetable, think about where you will be in each time block: the lecture hall, the library, the gym, etc. Whilst good study habits involve working where you won't be too disturbed, this will look different for everyone. Indeed, it is important to reflect on what works for you: are you better sticking to a strict timetable, or does flexibility to work when you feel productive suit you better? Certain environments will help or hinder your studying (alone vs group; silent vs noisy). Make sure you timetable some time at the end of your week to review how your timetable is working for you so you can make changes for the following week. When you get to the next section and you learn about SMART goals, you will want to timetable some time to review your goals too. 
+*S*pecific 
 
-Research has shown that students who actively organise their workloads and update their timetables and organisational styles to suit the demands of their course tend to outperform students who don't engage in this _metagcognitive_ learning behaviour (thinking _explicity_ about one's own learning).  For more information on reflecting on your progress, see the Going Forward section.
+* *What* do you want to achieve from your online and/or on-campus lectures? 
+* *Why* are these lectures important to you?
+* *Who* is involved in your lecture related goals?
+* *Where* will you lecture goals take place?
+* *Which* resources/ limits are involved in achieving your goals for lectures?
 
-The following exercises should help you to organise your time to keep on top of your lecture attendance and study timetable. After completing the exercises, you might want to transfer what you have learned onto a timetable app on your phone for convenience (see additional resources).
+*M*easurable 
 
-Keep in mind that, whilst organising your semester is best done at the start of the semester, the skills that you learn here can be implemented at any point in the semester. It is never too late to get started; wherever you are in the semester, put into practise what you learn on this course.
+* What will you measure to assess your progress?  The number of understood lectures? The number of quality notes written during and/or after your lectures?
+* Quantify your goal so you will know when you have achieved it!
 
-# Resources
-### Planner Examples
+*A*chievable 
 
-In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture, then you can use this slot to catchup on a missed lecture. Whilst attending a live lecture is most effective, it is preferable to catch up with a lecture recording than not at all. Keep on top of your workload (around your weekly lectures) by planning ahead. 
+* Although it will stretch me, is my goal doable?
+* Will I be able to attend all of my lectures live (either on campus or through an online learning platform)?
+* Do I have some unavoidable commitment whereby I will have to set a goal to catch up on a lecture using lecture recording in my own time?
 
-# Tasks
-### Task 1: Task 1 (4 mins): An Overview of SMART Goals
+*R*ealistic 
 
-To get a quick overview of what SMART goals are, take a look at this informative video. Remember that SMART goals must be tailored to who you are as a student. Think about the goals that you have for learning with lectures and how you will implement them in the specific learning environment that you will be in. 
+* Is my lecture goal worthwhile?
+* Is this the right time to pursue my goal?
+
+*T*imely 
+
+* When will it be completed?
+* How long will it take to complete?
+* What can I do today in the time that I have in order to make progress on my goal?
+
+Using your semester planner, and the resources in this section, try to create a SMART goal that you could insert into your weekly planner. For example, you may have already identified a difficult section in a recent lecture that you want to better understand. Think about the steps that you will take to get a better understanding of that topic using your lecture materials (e.g. for notes, see the next section). Think about how you will incorporate lecture recordings as a step in achieving your SMART goal. To help you do this, watch the YouTube video on the following page (Task 1).
+
+After completing the exercises in this section, you could transfer your SMART goal knowledge to a computer/ mobile app for convenience (see additional resources). Also, remember to add time to your timetable (online or offline) to reflect on your SMART goal progress. Ask yourself what is going well and what you need to change to accomplish your goal. For more information on reflection, see going forward.
+
+<br>
+
+# Task 1
+### An Overview of SMART Goals
+
+To get a quick overview of what SMART goals are, take a look at this informative video. Whilst watching this video, think about how your university experience will look and how SMART goals will fit into your own timetable. Specifically, think about whether you will be engaging with lectures on campus, remotely or through a blended approach. 
 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1-SvuFIQjK8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>  
+
+<br>
+
+# Resources
+### Examples of (not so) SMART Lecture Goals
+
+Compare and contrast the two examples of SMART goals. The bad example is not specific, does not provide a measurable outcome, and is not time-bound in clear way. You should be as specific as possible with your goals' 5 components (S.M.A.R.T.)
+
+* [Example of a Bad SMART Goal](downloads/SMART_Bad_Example.pdf
+)
+
+* [Example of a Good SMART Goal](downloads/SMART_Good_Example.pdf
+)
+
+<br>
+
+# Task 2
+### Try make Your Own SMART Lecture Goal
+
+* [Blank Template for SMART goals](downloads/SMART_template.docx)
+
+<br>
+
+# Tutorial 2
+
+Making SMART goals can be easy; but implementing them can sometimes be tricky. Read this short tutorial for some top tips on how best to implement your SMART goals.
+
+### Implementing and Achieving Your SMART Lecture goals
+
+After you have developed SMART goals (for instance, using lecture recordings to clarify a difficult online lecture), the next step is taking action to successfully implement these goals. Implementing your SMART goals requires planning, executing, and monitoring your progress towards your goals. 
+
+*Planning*
+
+* Thoroughly establish the subgoals that will lead to you successfully completing your SMART goal. Think about exactly what you need to do and when to achieve your goal. Creating an explicit link between what you have to do and when you have to do it increases the likelihood of the goal being implemented.
+
+*Executing*
+
+*Take concrete and decisive action to implement the subgoals.
+
+*Monitoring*
+
+* As you work towards your goal, take note of things that are going well and things that are not going so well. Update your SMART goals (and subgoals) accordingly.
+
+Here are some top tips for implementing your SMART lecture goals:
+
+1. Insert your subgoals into your weekly planner.
+2. Make your subgoals high priority in your planner and complete them early in the day.
+3. Use a daily planner app on your phone to further breakdown the daily steps you can take.
+4. Write your SMART goal somewhere you will see it daily.
+5. Check off the subgoal milestones as you complete them so you can see the progress that you are making (use a checklist app).
+6. Share your SMART goals with other people (for example, a study group) so you can be supported and encouraged by others. You might even be held accountable!
+7. Collect all the materials you need to implement your goal in advance.
+8. Complete at least one action per day.
+9. Reward yourself when you implement your SMART goals.
+
+<br>
+
+# Going Forward
+
+The 'Going Forward' section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
+
+
