@@ -42,8 +42,7 @@ In this folder you will find a planner, which you can customise for each week of
 
 In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture, then you can use this slot to catchup on a missed lecture. Whilst attending a live lecture is most effective, it is preferable to catch up with a lecture recording than not at all. Keep on top of your workload (around your weekly lectures) by planning ahead. 
 
-![](Timetable_Semester_Example.pdf)
-[Download my book!](C:\Users\graha\Documents\GITHUB\MakingtheMostofLectures\Timetable_Semester_Example.pdf)
+[Download my book!](downloads/Timetable_Semester_Example.pdf)
 
 # Tasks
 ### Task 1: Complete Your Semester Planner
