@@ -14,115 +14,118 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.
+<br>
 
+# Leads Website
 
-This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
+The [Learning Enhancement and Academic Development Service](https://www.gla.ac.uk/myglasgow/leads/students/) is here to support and to help enhance your success as a student at the University of Glasgow. LEADS offer a number of services ranging from advice on academic writing and advice on maths & stats, through academic writing and dissertation research classes throughout the year, to year-round, confidential one-to-one appointments. Information and support is available for both on-campus and remote learners. Check us out for more information.
 
-# My first post
+** If completing this course has raised any concerns about your study skills, please feel free to get in contact with us.**
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+<br>
 
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
+> Below you can find additional resources relating to the different topics covered in this course.
 
-## Second level header
+# Time Keeping
 
-You can add more headers by adding more hashtags. These won't be put into the table of contents
+### [Timetable & Moodle App](https://www.gla.ac.uk/apps/)
 
-### third level header
+Follow this link to connect your university timetable to your calendar app. You will also find a link to downloading Moodle onto your phone or tablet. 
 
-Here's an even lower level header
+### [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
 
-# My second post (note the order)
+If you would prefer to have a timetable and planner that can be synced across your devices, why not try Google Calendar? Using what you have learned in the [Time Keeping](https://g33h3m.github.io/MakingtheMostofLectures/Time_Keeping.html) section, try make your own weekly and semester planner. With Google Calendar, you can create different calendars to colour co-ordinate the different categories that you will have on your planner (e.g. online lectures, extracurricular, deadlines, on-campus classes). You can also set reminders for yourself and set events (such as on-campus lectures) to repeat at a certain interval (e.g. biweekly). To import your university calendar (see above) to google calendar, follow the information in the link above to download your calendar as a file that an be imported into your calendar app. 
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+### [Pomotodo](https://pomotodo.com/)
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+Pomotodo is a time management tool based on the Pomodoro Technique (see section on 'Going Forward') designed to combat procrastination and to increase productivity.
 
-# Adding R stuff
+<br>
 
-So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
+# Goal Setting
 
-So, let's say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:
+### [Microsoft's To Do App Website (see app store for mobile apps)](https://todo.microsoft.com/en-us)
 
-```{r}
-samples <- rnorm(100, mean=0, sd=1)
-hist(samples)
-```
+The To Do App allows you to create to-do lists to help you stay organised and to make your tasks more manageable by breaking them down into simple steps. It also allows you to add due dates, share lists and set reminders to keep you on track.
 
-When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.
+### [Google Tasks (computer and phone based)](https://todo.microsoft.com/en-us)
 
-# The big idea
+Google Tasks allows you to create to-do lists, add details and create subtasks including creating tasks directly from an email. It also allows you to set due dates and reminders to keep your tasks on track.
 
-Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I've placed some helpful starting links in the links page on this website
+A good way to manage your SMART goals technologically is to use a checklist app, such as the ones above. Whilst there are many different apps out there, after choosing one that feels right for you, you can insert the parts of your SMART goal and check them off as you complete them. You can add the daily subgoals each day and check them off too. Google tasks works well with google calendar as you can add goals to specific days in your calendar (which will be your weekly and semester planner).
 
-# What can you do right now by yourself?
+For some advice on using Google Tasks, you can watch the video below: 
 
-It's hard to learn programming when you don't have specific problems that you are trying to solve. Everything just seems abstract.
+<centre>
 
-I wrote an [introductory programming book that introduces R](https://crumplab.github.io/programmingforpsych/), and gives some [concrete problems for you to solve](https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html). 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LznRSt4ytRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:
+</centre>
 
-# Problem 1
+<br>
 
-Do simple math with numbers, addition, subtraction, multiplication, division
+# Note Taking
 
-```{r}
-1+2
-2*5
-5/3
-(1+6+4)/5
+### Tutorial on Microsoft's OneNote
 
-```
+Using an application like OneNote will allow you take highly organised virtual notes: the software is designed like an online ring binder folder with sections, dividers, and as many pages as you want. Watch this tutorial to get an overview of how to use it. You could even employ the Cornell method in OneNote. Follow the link below to find out more about using the Cornell method in OneNote. 
 
-# Problem 2
+<centre>
 
-Put numbers into variables, do simple math on the variables
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOerTodG3Ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```{r}
-a<-1
-b<-2
-a+b
+</centre>
 
-d<-c(1,2,3)
-e<-c(5,6,7)
-d+e
-d*e
-d/e
+### Tutorial on Using the Cornell Method in OneNote
 
-```
+This short video explains how you could transfer the Cornell Method into Microsoft's OneNote to help you take effective notes in Lectures. In the left margin, remember to bulletpoint specific slides that you want to re-watch using lecture recording. At the bottom, remember to add the intending learning outcomes so that you can test yourself by turning them into questions. 
 
-# Problem 3
+<centre>
 
-Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUOuG4Py5wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```{r}
-# for loop solution
-# i becomes the number 1 to 100 at each step of the loop
+</centre>
 
+<br>
 
-a <- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] <-i #assigns the number in i, to the ith index of a
-}
+# Revising
 
-print(a)
+### [Flashcard App that Uses Spaced Repetition](https://apps.ankiweb.net/)
 
-# for loop solution #2
+Research has shown that it is best to space your learning over time. Maybe you re-watch 10 minutes of a difficult lecture one day after the live presentation (online and/or on campus), then you watch the same section one week later, then you watch it one month later. Spacing your learning out like this gives you the opportunity to try recall difficult information before you passively re-watch a specific segment of a lecture. This mobile and desktop flashcard application employs a spaced repetition algorithm so that you will be prompted to test your recall just as you are about to forget what you have learned. Of course, you can do this manually with self-made flashcards, but you might prefer an app.
 
-a<-c() #create empty variable using combine command
-for (i in 1:100){
-  a<-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)
+### [Website and Application that Uses Spaced Repetition](https://www.memrise.com/)
 
-# seq solution
-a <- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)
+Similar to the flashcard application above, this website (and mobile app) allows you to make flashcards to test yourself over a spaced period of time. The website (and app) are designed like a game, which may be more engaging than traditional flashcards. The better you perform with each flashcard the less you will see it. 
 
-```
+### Video on Effective Memorisation
 
-# Replace this with problem 4
+After having re-watched the difficult sections of your lectures, you may need to memorise that information for on-campus and/or online exams. Research has shown that passive reading and route memorisation (or repetition) are not effective memory techniques. Using your visual memory (e.g. method of loci), mnemonics (e.g. acronyms), and spaced repetition are much more effective. Try some of these techniques when watching difficult sections of your lectures. Remember that online and on-campus exams will be testing your active recall of material that you will have learned through lectures and your extra reading. For an introduction to making crazy visual memories, watch this YouTube video. 
 
-And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.
+<centre>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nFkQ4cQhME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</centre>
+
+### [Blog Post on Effective Memorisation](https://zapier.com/blog/better-memory/)
+
+This blog post covers most of the evidence-based memory techniques. You can combine effective note taking, targeted revision of your lecture slides using lecture recording, and these memory techniques to enhance your engagement with your (online and/ or on-campus) course(s). For example, you attend your lecture (virtually or in person) and take Cornell Notes, then over two weeks you might practise testing yourself (following your weekly planner) using the ILOs on your notes, then if you are still struggling, you will plan some time to rewatch specific sections of your lecture. When you have got a handle on the material, you might employ one of the memory techniques to maximise retention. The more you actively engage with the material, the better! 
+
+<br>
+
+# Evidence-Based Learning and Study Strategies
+
+### [Podcast Episodes on Evidence-based Learning Strategies] (https://www.learningscientists.org/podcast-episodes)
+
+For more (bitesize) information on evidence-based learning strategies, check out this website, which is run by learning specialists.
+
+### Video on Effective Study Habits
+
+Watch this visual to get an accessible introduction to spaced repetition, elaborative encoding, practice retrieval and dual coding.
+
+<centre>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPxSzxylRCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</centre>

@@ -14,115 +14,79 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.
+<br>
 
+# Tutorial
 
-This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
+For most students, exams are an unavoidable part of university. Have you ever wondered how best to study with your lecture materials? Have a quick read of this short tutorial before attempting the following exercises.
 
-# My first post
+### How to Revise with Lecture Recordings
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+Research has shown that the best way to engage and revise your courses is to do small chunks over a lengthy period of time. This means that cramming your revision at the end of the semester, during the study period, is likely to be ineffective.
 
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
+Instead, you should learn as you go along by actively interacting with the lecture materials (slides and recordings) over increasingly longer intervals. When doing this, it is best to test your knowledge, rather than re-read your notes or re-watch the course's lecture recordings.
 
-## Second level header
+Indeed, they say that practice makes perfect: so, in order to perfect your exam performance, you should practice what you will be doing in the exam. That is, you should practice recalling your knowledge. You won't be re-reading your notes or re-watching lecture recordings in the exam, but you will have to actively remember your notes without having them in front of you. This is what you should practice. Some ways of doing this are:
 
-You can add more headers by adding more hashtags. These won't be put into the table of contents
+* Flashcards on a lecture's main points or terminology.
+* Explaining your notes back to yourself without looking.
+* Rewriting your notes without looking and then checking with lecture slides/ recordings.
+* Explaining sections of the course to your study group without the aid of written notes.
+* Writing timed practice essays on your courses' various topics without any prompts.
+* Taking quizzes (often linked to course textbooks).
+* Making your own quizzes.
+* Trying to explain parts of the lecture before you re-watch specific sections.
+* Make analogies and connections between different parts of lectures.
+* Re-watch 5-minute sections of different lectures to see how the concepts relate
 
-### third level header
+It is important that you monitor how successful these strategies are for you. Test yourself and if you don't see your score improving, think about why this is the case and make adjustments. Maybe you need to engage with the notes you took in lectures in a different way. Have you tried drawing your notes or devising silly stories to explain difficult concepts? If it isn't working for you, try something else.
+But remember, you learn by testing yourself; you don't learn by practising reading. **Practise what you will do in the exam and do it over a period of time.**
 
-Here's an even lower level header
+Although different courses and different levels of study use different exam formats (e.g. online or on campus), the advice for revising with lecture content is the same. In most circumstances you will be required to actively recall what you have learned through your lectures, so you should revise by testing yourself on this material.
 
-# My second post (note the order)
+Remember that you can always transfer what you learn here to a computer/ mobile app for convenience (see [additional resources](https://g33h3m.github.io/MakingtheMostofLectures/Additional_Resources.html)).
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+Using your revision grid (continue working through this section to see the grid) in conjunction with your [timetable](https://g33h3m.github.io/MakingtheMostofLectures/Time_Keeping.html) and [SMART goal knowledge](https://g33h3m.github.io/MakingtheMostofLectures/Goal_Setting.html), you should take time to reflect on your revision. Are you meeting your measurable outcomes? Are you completing your goals within your timeframe? Do you need to study in a different environment? Add some reflection time to your weekly planner to see if your SMART revision is paying off.
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+<br>
 
-# Adding R stuff
+# Task 1
 
-So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
+### An Introduction to Spaced Repetition
 
-So, let's say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:
+For an overview of what spaced repetition is and its importance for students, take a look at this quick informative video.
 
-```{r}
-samples <- rnorm(100, mean=0, sd=1)
-hist(samples)
-```
+<centre>
 
-When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cVf38y07cfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# The big idea
+</centre>
 
-Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I've placed some helpful starting links in the links page on this website
+<br>
 
-# What can you do right now by yourself?
+# Resources
 
-It's hard to learn programming when you don't have specific problems that you are trying to solve. Everything just seems abstract.
+In this spreadsheet, at the bottom there is a page for each lecture (you could have a different excel document for each of your courses). Within each page, there is a column on the far left where you can add key questions from the lectures. A good way to identify the key things you should know in order to test yourself is to turn each lecture's ILOs (intended learning outcomes) into questions. When you come to revise, you should test your ability to answer these questions without looking at your notes. If you do well, you could highlight the testing column in green. If you struggled and had to look at your notes, maybe highlight the column in orange. And if you had no idea where to start, maybe highlight it in red. This is a good way to track your knowledge for each lecture and your ability to recall information without looking at your notes. In so doing, you will be able to target your revision to the most difficult parts of a lecture. 
 
-I wrote an [introductory programming book that introduces R](https://crumplab.github.io/programmingforpsych/), and gives some [concrete problems for you to solve](https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html). 
+For the problematic questions, look at the SMART goal section of this course and think about how you will improve your understanding of the topic, using a specific, measurable, achievable, realistic, and time-bound goals. Your goals should detail the lecture materials you will use and the memory techniques that you will use to get a grasp on the topic. You could then add your goal into your weekly planner. For more advice on effective revision, see the additional resources section.
 
-To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:
+### Examples of a Spaced Revision Grid
 
-# Problem 1
+* [PDF Example of a Revision Grid](downloads/Revision_Grid_Example.pdf
+)
+* [Excel Spreadsheet Example of a Revision Grid](downloads/Revision_Grid_Example.xlsx
+)
 
-Do simple math with numbers, addition, subtraction, multiplication, division
+<br>
 
-```{r}
-1+2
-2*5
-5/3
-(1+6+4)/5
+# Task 2
 
-```
+### Create Your Own Spaced Revision Grid
 
-# Problem 2
+* [Blank Revision Grid Template](downloads/Revision_Template.xlsx)
 
-Put numbers into variables, do simple math on the variables
+<br>
 
-```{r}
-a<-1
-b<-2
-a+b
+# Going Forward
 
-d<-c(1,2,3)
-e<-c(5,6,7)
-d+e
-d*e
-d/e
-
-```
-
-# Problem 3
-
-Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.
-
-```{r}
-# for loop solution
-# i becomes the number 1 to 100 at each step of the loop
-
-
-a <- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] <-i #assigns the number in i, to the ith index of a
-}
-
-print(a)
-
-# for loop solution #2
-
-a<-c() #create empty variable using combine command
-for (i in 1:100){
-  a<-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)
-
-# seq solution
-a <- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)
-
-```
-
-# Replace this with problem 4
-
-And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.
+The 'Going Forward' section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

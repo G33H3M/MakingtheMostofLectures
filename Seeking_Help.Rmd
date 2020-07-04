@@ -14,115 +14,32 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.
+<br>
 
+# Information
 
-This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
+Here you will find some information on effective strategies in getting extra support on lecture content. Remember that just because you have a lecture recording doesn't mean that you have been left to your own devices. If you need extra support, then help is there for you.
 
-# My first post
+### What To Do If You Have a Persistant Issue With a Section of a Lecture?
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+#### Staff Office Hours
 
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
+If you are having difficulties with any aspect of your (online and/or on-campus) course, you can go along to speak to your lecturers or in some cases it might be preferable to arrange a virtual appointment with them (e.g. Zoom). All teaching staff at the University of Glasgow will have a weekly time-slot for meeting in person and/ or virtually with their students. Staff are dedicated to the students, so you can be confident that they are likely to be available to speak to you. Staff office hours tend to be underused by students, so you should make the most of the 1-2-1 with the staff who are teaching you. To find a staff member’s office hour, follow the link below, which gives you a list of the different schools at the university. From there, choose the relevant School. Next, click on the our staff section. Find the member of staff whose office hour you would like to attend and look at their profile where you will find their office hours (or their email address if there is no published office hour). Remember that staff often put their office hours on the first slide of their lecture presentations (sometimes only for the first lecture in the semester). In some circumstances staff office hours might be subject to frequent change, so you can always send an email to the staff member to find out their availability for that week. It is also a good idea to have a conference call application (e.g. Microsoft Teams or Zoom) installed on your devices in case you have to arrange a virtual meeting (see online learning for more information on such applications). 
 
-## Second level header
+https://www.gla.ac.uk/schools/
 
-You can add more headers by adding more hashtags. These won't be put into the table of contents
+#### Peer Assisted Learning (PAL)
 
-### third level header
+Some Schools at the university offer a system in which older students are available to support younger students (and vice versa) with course related content. If you are struggling with some lecture content, why not take the lecture recording to a PAL session and see if a fellow student can support you in some way? To find out if your school offers PAL, contact your course convenor.
 
-Here's an even lower level header
+#### Create a Study Group
 
-# My second post (note the order)
+Research has shown the use of student study groups to be an effective learning strategy. Studying in groups not only gives you the opportunity to support each other, but you can work collaboratively on difficult lecture topics. Having a structured study group will allow you to practise active recall by explaining lecture topics to each other, to fill in any gaps in your notes, and to break the monotony of studying alone. Why not revisit specific lecture recordings together and tackle the difficult topics together? Working together may help you gain insight into lecture content that you wouldn't have got alone. You can post on your course's Moodle announcement section to see if any of your peers would like to start a study group. 
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+Remember that you can use technology such as Zoom or Microsoft Teams to set up a virtual study group. These applications allow you to share your computer screen with your fellow students. This could be useful for watching lecture recordings together, or for sharing diagrams and infographics with each other. Virtual study groups might be preferable to on-campus study groups (e.g. you are a home student or your course is being delivered remotely), so you should make the most of available technology to study with your peers (see studying online for more information).
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+<br>
 
-# Adding R stuff
+# Going Forward
 
-So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
-
-So, let's say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:
-
-```{r}
-samples <- rnorm(100, mean=0, sd=1)
-hist(samples)
-```
-
-When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.
-
-# The big idea
-
-Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I've placed some helpful starting links in the links page on this website
-
-# What can you do right now by yourself?
-
-It's hard to learn programming when you don't have specific problems that you are trying to solve. Everything just seems abstract.
-
-I wrote an [introductory programming book that introduces R](https://crumplab.github.io/programmingforpsych/), and gives some [concrete problems for you to solve](https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html). 
-
-To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:
-
-# Problem 1
-
-Do simple math with numbers, addition, subtraction, multiplication, division
-
-```{r}
-1+2
-2*5
-5/3
-(1+6+4)/5
-
-```
-
-# Problem 2
-
-Put numbers into variables, do simple math on the variables
-
-```{r}
-a<-1
-b<-2
-a+b
-
-d<-c(1,2,3)
-e<-c(5,6,7)
-d+e
-d*e
-d/e
-
-```
-
-# Problem 3
-
-Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.
-
-```{r}
-# for loop solution
-# i becomes the number 1 to 100 at each step of the loop
-
-
-a <- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] <-i #assigns the number in i, to the ith index of a
-}
-
-print(a)
-
-# for loop solution #2
-
-a<-c() #create empty variable using combine command
-for (i in 1:100){
-  a<-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)
-
-# seq solution
-a <- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)
-
-```
-
-# Replace this with problem 4
-
-And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.
+The 'Going Forward' section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

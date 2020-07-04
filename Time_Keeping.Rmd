@@ -16,9 +16,10 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
-# Tutorial: Organising Your Time Around Your Lectures
+Before attempting the tasks below, have a quick read at this short tutorial on the importance of organising your time around lecture attendance. Your attendance might involve going to the lecture hall or it might involve joining an online lecture with your fellow students. In both cases, your attendance is important, and you should prioritise time to engage with lecture materials (remotely and/or on campus).
 
-#### Before attempting the tasks below, have a quick read at this short tutorial on the importance of organising your time around lecture attendance. Your attendance might involve going to the lecture hall or it might involve joining an online lecture with your fellow students. In both cases, your attendance is important, and you should prioritise time to engage with lecture materials (remotely and/or on campus). 
+# Tutorial
+### Organising Your Time Around Your Lectures
 
 The aim of this section is to get you to think about time management: scheduling, planning, and reviewing your time around lectures. We encourage you to set aside blocks of time dedicated to revising lecture content and to plan ahead to make sure you can attend your lectures on campus or from a [virtual learning environment](https://g33h3m.github.io/MakingtheMostofLectures/Online_Learning.html) (e.g. Zoom). Having a think about how your entire semester will look should help you to plan your week and set [realistic goals](https://g33h3m.github.io/MakingtheMostofLectures/Goal_Setting.html).
 

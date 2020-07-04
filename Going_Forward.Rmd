@@ -14,115 +14,124 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.
+<br>
 
+# Reflection
 
-This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a \# in front of your text, it will create a top level-header.
+### Bonus Tutorial: Reflecting on Your Goals
 
-# My first post
+#### What is reflection?
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+* A process in which learners monitor and regulate their own learning progress independently. By reflecting on how you have implemented the skills that you have learned in this course, not only will you further develop those skills, but you will learn to evaluate how effective they are for you. In so doing, you will avoid continuing with habits that don't work for you by implementing better ones.  
 
-Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left. 
+#### Why reflect?
 
-## Second level header
+* You will learn about your individual learning styles and individual values as a student and will be more able to tailor your goals and strategies to your needs and skills.
+* It will help you work against the uncritical use of ineffective learning strategies.
+* You will develop your problem-solving skills as you generate solutions to any challenges you have faced.
+* You will be more productive as your streamline your learning.
+* You are learning the key skill of critical thinking, which you will use frequently during your time at university.
 
-You can add more headers by adding more hashtags. These won't be put into the table of contents
+#### How does this look? 
 
-### third level header
+Ideally throughout your week (or at the end of the week), you will review how your timetable, goals, notetaking, and revision are working for you. If you have set measurable goals, you can start your reflection by asking if you have successfully completed these goals. If the answer is yes, then ask yourself why you managed them: 
 
-Here's an even lower level header
+* Which factors facilitated your completion of the goals?
+* Which environments were most conducive to your success (for example library or home)?
+* Could you implement what helped you in one goal to complete another future goal?
 
-# My second post (note the order)
+If the answer is no, then ask yourself:
 
-2018 | 7 | 23 Last compiled: `r Sys.Date()`
+* How were you stopped from reaching your goal?
+* How will you avoid making the same mistakes in the week to come?
+* Which resources can you get a hold of to help you improve your timetable, goals, and revision?
+* Is there anyone that you could ask for some advice? 
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+#### Key Questions to Ask
 
-# Adding R stuff
+1. What have I achieved this week and how?
+2. What were the factors that helped me to be successful?
+3. What are my strengths as an individual that helped me meet my goals?
+4. What didn't work so well for me that I can change easily for next week?
 
-So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place. 
+#### Next Steps
 
-So, let's say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:
+Have a look at the documents in the folder below this tutorial. You will see an example of a reflection grid; use this example alongside the blank template when you come to reflect on how well the skills you have learned in this course are working for you in real-life practice. Remember that they key to reflection is in honestly identifying what is working for you; what is not working for you; what you can do to maximise your success; and then implementing those changes. 
 
-```{r}
-samples <- rnorm(100, mean=0, sd=1)
-hist(samples)
-```
+### Bonus Task: Reflection Grid and Example
 
-When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.
+Have a look at the reflective log example for some ideas on effective reflection. You should be reflecting on your weekly progress at regular intervals and setting time to collate your self-feedback in order to make ammendments for your week ahead.
 
-# The big idea
+* [Example of Reflection](downloads/reflection_example.pdf)
+* [Blank Reflection Template](downloads/reflection_template.docx)
 
-Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I've placed some helpful starting links in the links page on this website
+<br>
 
-# What can you do right now by yourself?
+# Overcoming Procrastination
 
-It's hard to learn programming when you don't have specific problems that you are trying to solve. Everything just seems abstract.
+If you have identified procrastination as a challenge in your personal reflection, have a look at this evidence-based technique to help you overcome it.
 
-I wrote an [introductory programming book that introduces R](https://crumplab.github.io/programmingforpsych/), and gives some [concrete problems for you to solve](https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html). 
+### The Pomodoro Technique
 
-To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:
+#### What is it?
 
-# Problem 1
+* Watch this short animation to get a grip on what the pomodoro (Italian for tomato... all will be revealed) technique is.
 
-Do simple math with numbers, addition, subtraction, multiplication, division
+<centre>
 
-```{r}
-1+2
-2*5
-5/3
-(1+6+4)/5
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WqBuh4HWu8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```
+</centre>
 
-# Problem 2
+#### How can I use it?
 
-Put numbers into variables, do simple math on the variables
+* With your timetable and SMART goals for each course at hand, break down your tasks into small chunks of 25 minutes + 5 minutes break. You would have two pomodoro chunks per hour on your timetable. 
+* Say you have a particular lecture for which you want to create flashcards. Firstly, decide on where and when you want to work on this task (based on your reflection). Your SMART goal details that you want to create 15 flashcards for this lecture based on 5 ILOs. You need to change the ILOs into questions and then you need to use your notes to find the answers to the questions. Of course, you would try to answer the questions before looking at your lecture notes (active recall). For 25 minutes, you work on making flashcards. You are able to make 5 amazing flashcards in this time period. You would need about 3 pomodoro chunks to complete this task.
+* Set a timer on your phone (or use the link below if you are really committed and don't want to look at your phone at all) and work for 25 minutes without any distractions. After the 25 minutes, take note of your progress (for reflection) and have a 5 minutes break. 
+* Repeat this twice within your hour chunk on the timetable. However, you might find that working in pomodoro chunks is more effective that sticking to hour blocks on the timetable. In this case, you could fill you timetable with tasks to be done each day (ignoring time blocks) and work your way through them in pomodoro chunks.
+* As you implement these skills, it will become apparent what works well for you and what doesn't. When you have identified this, update your planner and skills accordingly. 
 
-```{r}
-a<-1
-b<-2
-a+b
+#### Pomodoro Timer
 
-d<-c(1,2,3)
-e<-c(5,6,7)
-d+e
-d*e
-d/e
+<centre>
 
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1znjHDiqBk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Problem 3
+</centre>
 
-Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.
+#### Additional Resources
 
-```{r}
-# for loop solution
-# i becomes the number 1 to 100 at each step of the loop
+To manage your workflow in a pomodoro way, have a look at pomotodo. It is available as a chrome extension, computer app, and mobile app.
 
+* https://pomotodo.com/intl/en/
 
-a <- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] <-i #assigns the number in i, to the ith index of a
-}
+To temporarily block and customise your access to websites on which you often waste time, try this chrome extension. 
 
-print(a)
+* https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en
 
-# for loop solution #2
+To see where you spend your time, use this tracker that runs in the background of your computer (or mobile phone) to produce a report on what you are doing with your day.
 
-a<-c() #create empty variable using combine command
-for (i in 1:100){
-  a<-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)
+* https://www.rescuetime.com/plans
 
-# seq solution
-a <- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)
+### Pomodoro Infographics
 
-```
+* [Infographic Number One](downloads/pomodoro.png)
+* [Infographic Number Two](downloads/pomodoro_2.jpg)
 
-# Replace this with problem 4
+<br>
 
-And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.
+# Infographic Course Summary
+
+Have a look at this infographic summary of best practice and evidence-based advice when using lectures and lecture recordings.
+
+The different sections of this course have been created to help you implement the advice given in this visual summary.
+
+* [Infographic](downloads/visual_nordmann.pdf)
+
+<br>
+
+# Course Checklist
+
+Here you will find a summary of everything you will have learned after completing this Moodle course. You could use it as a checklist to monitor how much you have learned, or even as a springboard for further research and investigation into effective study strategies.
+
+* [Checklist](downloads/checklist.docx)
