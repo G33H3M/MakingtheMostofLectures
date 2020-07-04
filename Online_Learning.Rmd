@@ -14,27 +14,157 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-# Tutorial
-### Organising Your Time Around Your Lectures
+<br>
 
-The aim of this section is to get you to think about time management: scheduling, planning, and reviewing your time around lectures. We encourage you to set aside blocks of time dedicated to revising lecture content and to plan ahead to make sure you can attend your lectures live. Having a think about how your entire semester will look should help you to plan your week and set realistic goals.
+# General Advice
 
-For many students, being at university is an exciting time of change and new opportunities. You might find that learning at university is somewhat different from your experience of previous educational establishments, and learning in the lecture hall may be one of those differences. For many, being taught in lectures is something that you first experience at university. Your timetable will probably be sparser than when you were at school or college, and so you will have to undertake a lot more _independent_ studying. The amount of independent study required, is also likely increase as you progress to the later years of your degree.
+### [Tutorial: Thinking about Learning Online](https://sway.office.com/jjz21zd2E9cg3CO3)
 
-When devising a timetable, think about where you will be in each time block: the lecture hall, the library, the gym, etc. Whilst good study habits involve working where you won't be too disturbed, this will look different for everyone. Indeed, it is important to reflect on what works for you: are you better sticking to a strict timetable, or does flexibility to work when you feel productive suit you better? Certain environments will help or hinder your studying (alone vs group; silent vs noisy). Make sure you timetable some time at the end of your week to review how your timetable is working for you so you can make changes for the following week. When you get to the next section and you learn about SMART goals, you will want to timetable some time to review your goals too. 
+If you are enrolled in a course that will deliver some (or all) of its teaching online, then work your way through this tutorial in order to start thinking about how you will make the most of engaging with your studies in a remote learning environment. 
 
-Research has shown that students who actively organise their workloads and update their timetables and organisational styles to suit the demands of their course tend to outperform students who don't engage in this _metagcognitive_ learning behaviour (thinking _explicity_ about one's own learning).  For more information on reflecting on your progress, see the Going Forward section.
+Remember that the skills of time keeping, goal setting and note taking apply no matter the environment in which you will be learning. Of course, when it comes to revising for online exams you can also use the evidence-based information in the revision section of this course to support your studying. No matter where you will be learning, there will always be additional resources available to support your learning and you are encouraged to reach out to staff and fellow students if you need some extra support.
 
-The following exercises should help you to organise your time to keep on top of your lecture attendance and study timetable. After completing the exercises, you might want to transfer what you have learned onto a timetable app on your phone for convenience (see additional resources).
+** Whilst working your way through this tutorial, reflect on how you will implement your new study skills gained from the other sections in an online setting.**
 
-Keep in mind that, whilst organising your semester is best done at the start of the semester, the skills that you learn here can be implemented at any point in the semester. It is never too late to get started; wherever you are in the semester, put into practise what you learn on this course.
+### Task (15 mins): Four Factors for Effective Online Learning
 
-# Resources
-### Planner Examples
+To go a bit deeper on effective online learning, watch this informative video. As a bonus activity make some SMART goals for how you will implement the advice in this video as an online learner.
 
-In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture, then you can use this slot to catchup on a missed lecture. Whilst attending a live lecture is most effective, it is preferable to catch up with a lecture recording than not at all. Keep on top of your workload (around your weekly lectures) by planning ahead. 
+<centre>
 
-# Tasks
-### Task 1: Complete Your Semester Planner
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eF-Z1hJ67-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Task 2: Complete Your Weekly Planner
+</centre>
+
+<br>
+
+# Time Management
+
+### Tutorial: Time Keeping as an Online Learner
+
+Regardless of whether your course is part time or full time, you will be expected to dedicate a significant proportion of your time to your online courses. Read through this short tutorial to get a better understanding of how many hours you should be dedicating to your online learning
+
+#### Credits
+
+Every course in which you can enrol at the University (online, on campus and/or blended) has a specific credit load associated with it. A credit load indicates how much work is expected in order to complete the course and in order to achieve a high grade in the relevant assessment(s).
+
+#### What is a credit worth?
+
+Each credit for each course indicates a workload of 10 hours. These 10 hours include: 
+
+* Time spent attending lectures (online and/or on campus)
+* Time spent in seminars and tutorials (online and/or on campus)
+* Time spent preparing for classes (e.g. at home)
+* Time spent studying and revising materials (private study and/or group study through a conferencing app like Zoom)
+
+#### A worked example
+
+* Each full-time undergraduate course is associated with a credit load of 120 credits per year (often comprising multiple 10 or 20-credit courses)
+* This means you should be spending 1200 hours across semester one and semester two in order to sufficiently engage with the course and demonstrate your excellence in the courses' ILOs
+* With an academic year consisting of 30 teaching weeks across the two semesters, you should be spending 40 hours per week engaging with your course (1200 hours/ 30 weeks)
+* These 40 hours will include time spent in tutorials, seminars, and lectures (online and/ or on campus). Therefore, after deducting the time spent in these core activities, you will have an estimate of the remaining time you should be using to:
+  + Revise lectures with recordings
+  + Engage with your assigned readings (and extra readings)
+  + Revise in your study groups (e.g. using Microsoft Teams)
+  + Make revision grids
+  + Test your knowledge based on ILOs (by making revision questions and/ or flashcards)
+  + Review your timetable and revision schedule
+  + Reflect on your SMART goals
+  + Design and implement new SMART goals
+  + Interact with lecturers in their office hours (e.g. by organising a virtual meeting through an app like Zoom)
+
+#### Managing Your Time
+
+If you are enrolled in an online course for the first time, then it may be a good idea to monitor how you are spending your time over the first few weeks. This might involve using the reflection grid in this course by asking yourself the following kinds of questions:
+
+1. Did I complete all of the SMART goals that I had set for myself?
+2. Was my study space most efficient and conducive to completing my goals?
+3. Was I able to incorporate time for self care and exercise into my timetable?
+4. Have I been feeling well rested and content with how my studies have been going?
+5. Was I dedicating sufficient time each week to reading extra materials (e.g. journal articles, textbooks, and secondary sources etc)?
+6. How have I found online lectures and lecture recordings? How can I better engage with them?
+
+By reflecting on your time management over the course of a few weeks you will be able to ascertain if your study habits as an online learner allow you to complete your SMART goals; work around other commitments that you have; and support your health and wellbeing.
+
+#### Top Tips
+
+* Complete a weekly timetable to ensure you will complete all the necessary work for your courses. Be as specific as possible in terms of where you will study, with whom you will study, and how you will study. Allocate time during the week to reflect on these goals.
+* Make a semester timetable to get an overview of your deadlines. Calculate how much time you have until the submission and how much time you will need to prepare your assigment. Based on these calculations, you can start to make SMART goals that will help you complete your goal. Add this to your weekly planner.
+* Make use of the pomodoro technique to break your work in 20-minute, distraction-free chunks of time. 
+* Reward yourself for completing your goals within the time you allocated.
+* Allocate time for self-care habits like outdoor exercise or a zoom call with friends and/or family.
+
+### Task (6 mins): Time Management as an Online Student
+
+Have a watch at this short video to consolidate what you learned in the tutorial above. Remember to reflect on your personal circumstances and who you are as student. Tailor the advice in this video to meet your needs.
+
+<centre>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WOzMEBsWU7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</centre>
+
+<br>
+
+# Office Space
+
+### Tutorial: Thinking about Creating a Study Space
+
+When working remotely (e.g. at home), it can be really helpful to designate an area in which you will do all of your studying and learning. This sets up an environment associated in your mind with work in which you can (1) keep all of your materials together and (2) be free from as many distractions as possible. Watch this short video for some top tips on creating an effective study space. 
+
+<centre>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXDODZYxjFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</centre>
+
+#### [Task: Computer Workstation Ergonomics](http://www.safety.uwa.edu.au/health-wellbeing/physical/ergonomics/workstation)
+
+It is important to pay attention to your physical health when interacting with computer equipment. When working remotely (e.g. at home), you are likely to spend more time using these devices than you would if you were an on-campus learner. Read through the information in this tutorial to make sure you know how to maintain physical health whilst spending extended periods of time on a computer (and related devices).
+
+<br>
+
+# Staying Healthy
+
+### [Tutorial: Managing Stress and Anxiety](https://sway.office.com/s/hm1RRozBnPmEPoU4/embed)
+
+This tutorial is full of useful information for maintaining good mental health as an online learner. Work your way through the tutorial and engage with some of the materials to learn how you can best support your psychological wellbeing as a remote learner.
+
+**Remember if you have any concerns, you can get in touch with counselling and psychological services at the University.** 
+<br>
+
+# Internet Safety
+
+### [Information Security](https://www.gla.ac.uk/myglasgow/it/informationsecurity/)
+
+Working remotely with internet devices means that you have some extra security considerations. Have a look at this page offered by the University’s IT department to keep yourself and your data safe online.
+
+### [Data Protection and Freedom of Information](https://www.gla.ac.uk/myglasgow/dpfoioffice/)
+
+Follow this link for more information of data protection, freedom of information, and GDPR.
+
+<br>
+
+# Useful Resources
+
+### [Effective Strategies for Group Work (Moodle Course)](https://moodle.gla.ac.uk/mod/url/view.php?id=1577148&redirect=1)
+
+This moodle course walks you through great advice on getting the most out of (online) group work. Not only does evidence suggest that working with others can help your memory, but group work is also an essential skill for the workplace.
+
+### [IT Training Courses](https://www.gla.ac.uk/myglasgow/it/training/)
+
+The university offers several courses on different aspects of IT literacy. Whilst theses courses are open to all students, they might be particularly useful for students enrolled in online courses.
+
+### [Microsoft Teams](https://www.microsoft.com/en-gb/microsoft-365/microsoft-teams/group-chat-software)
+
+Microsoft Teams is a communication platform that combines instant messaging , video meetings, and file storage. Teams is part of Office 365 to which you have access as a student (use your GUID to login).  Follow the link to install Teams on your device(s).
+
+If you would like to know more about how Teams works, then you can also watch this [demo video](https://teamsdemo.office.com/)
+
+### [Twitter](https://twitter.com/home)
+
+Stay connected with your academic community by following your fellow students and lecturers. Even if you are a remote learner, remember that you are still part of a vibrant community at the University of Glasgow any beyond. Stay up to date with the work that is going on and keep in contact with your peers. 
+
+### [Zoom: Information and User Guides](https://www.gla.ac.uk/myglasgow/anywhere/videomeetings/)
+
+Zoom is a video conferencing platform with several features that might be useful if you are an online learner. You can share your screen with participants in the meeting (e.g. your study notes, a useful research article, a lecture recording), break off into smaller rooms (e.g. study groups), and private message each other. Follow this link for information on downloading and using Zoom to your advantage.

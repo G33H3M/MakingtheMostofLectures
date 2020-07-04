@@ -391,118 +391,108 @@ div.tocify {
 </div>
 
 
-<p>IMPORTANT: You can delete everything in here and start fresh. You might want to start by not deleting anything above this line until you know what that stuff is doing.</p>
-<p>This is an .Rmd file. It is plain text with special features. Any time you write just like this, it will be compiled to normal text in the website. If you put a # in front of your text, it will create a top level-header.</p>
-<div id="my-first-post" class="section level1">
-<h1>My first post</h1>
-<p>2018 | 7 | 23 Last compiled: 2020-07-04</p>
-<p>Notice that whatever you define as a top level header, automatically gets put into the table of contents bar on the left.</p>
-<div id="second-level-header" class="section level2">
-<h2>Second level header</h2>
-<p>You can add more headers by adding more hashtags. These won’t be put into the table of contents</p>
-<div id="third-level-header" class="section level3">
-<h3>third level header</h3>
-<p>Here’s an even lower level header</p>
+<p><br></p>
+<div id="leads-website" class="section level1">
+<h1>Leads Website</h1>
+<p>The <a href="https://www.gla.ac.uk/myglasgow/leads/students/">Learning Enhancement and Academic Development Service</a> is here to support and to help enhance your success as a student at the University of Glasgow. LEADS offer a number of services ranging from advice on academic writing and advice on maths &amp; stats, through academic writing and dissertation research classes throughout the year, to year-round, confidential one-to-one appointments. Information and support is available for both on-campus and remote learners. Check us out for more information.</p>
+<p>** If completing this course has raised any concerns about your study skills, please feel free to get in contact with us.**</p>
+<p><br></p>
+<blockquote>
+<p>Below you can find additional resources relating to the different topics covered in this course.</p>
+</blockquote>
+</div>
+<div id="time-keeping" class="section level1">
+<h1>Time Keeping</h1>
+<div id="timetable-moodle-app" class="section level3">
+<h3><a href="https://www.gla.ac.uk/apps/">Timetable &amp; Moodle App</a></h3>
+<p>Follow this link to connect your university timetable to your calendar app. You will also find a link to downloading Moodle onto your phone or tablet.</p>
+</div>
+<div id="google-calendar" class="section level3">
+<h3><a href="https://calendar.google.com/calendar/r?pli=1">Google Calendar</a></h3>
+<p>If you would prefer to have a timetable and planner that can be synced across your devices, why not try Google Calendar? Using what you have learned in the <a href="https://g33h3m.github.io/MakingtheMostofLectures/Time_Keeping.html">Time Keeping</a> section, try make your own weekly and semester planner. With Google Calendar, you can create different calendars to colour co-ordinate the different categories that you will have on your planner (e.g. online lectures, extracurricular, deadlines, on-campus classes). You can also set reminders for yourself and set events (such as on-campus lectures) to repeat at a certain interval (e.g. biweekly). To import your university calendar (see above) to google calendar, follow the information in the link above to download your calendar as a file that an be imported into your calendar app.</p>
+</div>
+<div id="pomotodo" class="section level3">
+<h3><a href="https://pomotodo.com/">Pomotodo</a></h3>
+<p>Pomotodo is a time management tool based on the Pomodoro Technique (see section on ‘Going Forward’) designed to combat procrastination and to increase productivity.</p>
+<p><br></p>
 </div>
 </div>
+<div id="goal-setting" class="section level1">
+<h1>Goal Setting</h1>
+<div id="microsofts-to-do-app-website-see-app-store-for-mobile-apps" class="section level3">
+<h3><a href="https://todo.microsoft.com/en-us">Microsoft’s To Do App Website (see app store for mobile apps)</a></h3>
+<p>The To Do App allows you to create to-do lists to help you stay organised and to make your tasks more manageable by breaking them down into simple steps. It also allows you to add due dates, share lists and set reminders to keep you on track.</p>
 </div>
-<div id="my-second-post-note-the-order" class="section level1">
-<h1>My second post (note the order)</h1>
-<p>2018 | 7 | 23 Last compiled: 2020-07-04</p>
-<p>I’m writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom</p>
+<div id="google-tasks-computer-and-phone-based" class="section level3">
+<h3><a href="https://todo.microsoft.com/en-us">Google Tasks (computer and phone based)</a></h3>
+<p>Google Tasks allows you to create to-do lists, add details and create subtasks including creating tasks directly from an email. It also allows you to set due dates and reminders to keep your tasks on track.</p>
+<p>A good way to manage your SMART goals technologically is to use a checklist app, such as the ones above. Whilst there are many different apps out there, after choosing one that feels right for you, you can insert the parts of your SMART goal and check them off as you complete them. You can add the daily subgoals each day and check them off too. Google tasks works well with google calendar as you can add goals to specific days in your calendar (which will be your weekly and semester planner).</p>
+<p>For some advice on using Google Tasks, you can watch the video below:</p>
+<p><centre></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LznRSt4ytRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p></centre></p>
+<p><br></p>
 </div>
-<div id="adding-r-stuff" class="section level1">
-<h1>Adding R stuff</h1>
-<p>So far this is just a blog where you can write in plain text and serve your writing to a webpage. One of the main purposes of this lab journal is to record your progress learning R. The reason I am asking you to use this process is because you can both make a website, and a lab journal, and learn R all in R-studio. This makes everything really convenient and in the sam place.</p>
-<p>So, let’s say you are learning how to make a histogram in R. For example, maybe you want to sample 100 numbers from a normal distribution with mean = 0, and standard deviation =1, and then you want to plot a histogram. You can do this right here by using an r code block, like this:</p>
-<pre class="r"><code>samples &lt;- rnorm(100, mean=0, sd=1)
-hist(samples)</code></pre>
-<p><img src="Additional_Resources_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
-<p>When you knit this R Markdown document, you will see that the histogram is printed to the page, along with the R code. This document can be set up to hide the R code in the webpage, just delete the comment (hashtag), from the cold folding option in the yaml header up top. For purposes of letting yourself see the code, and me see the code, best to keep it the way that it is. You learn all of these things and more can be customized in each R code block.</p>
 </div>
-<div id="the-big-idea" class="section level1">
-<h1>The big idea</h1>
-<p>Use this lab journal to record what you do in R. This way I will be able to see what you are doing and help you along the way. You will also be creating a repository of all the things you do. You can make posts about everything. Learning specific things in R (project unrelated), and doing things for the project that we will discuss at the beginning of the Fall semester. You can get started now by fiddling around with googling things, and trying stuff out in R. I’ve placed some helpful starting links in the links page on this website</p>
+<div id="note-taking" class="section level1">
+<h1>Note Taking</h1>
+<div id="tutorial-on-microsofts-onenote" class="section level3">
+<h3>Tutorial on Microsoft’s OneNote</h3>
+<p>Using an application like OneNote will allow you take highly organised virtual notes: the software is designed like an online ring binder folder with sections, dividers, and as many pages as you want. Watch this tutorial to get an overview of how to use it. You could even employ the Cornell method in OneNote. Follow the link below to find out more about using the Cornell method in OneNote.</p>
+<p><centre></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOerTodG3Ks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p></centre></p>
 </div>
-<div id="what-can-you-do-right-now-by-yourself" class="section level1">
-<h1>What can you do right now by yourself?</h1>
-<p>It’s hard to learn programming when you don’t have specific problems that you are trying to solve. Everything just seems abstract.</p>
-<p>I wrote an <a href="https://crumplab.github.io/programmingforpsych/">introductory programming book that introduces R</a>, and gives some <a href="https://crumplab.github.io/programmingforpsych/programming-challenges-i-learning-the-fundamentals.html">concrete problems for you to solve</a>.</p>
-<p>To get the hang of journaling and solving the problems to learn programming, my suggestion is that you use this .Rmd file to solve the problems. It would look like this:</p>
+<div id="tutorial-on-using-the-cornell-method-in-onenote" class="section level3">
+<h3>Tutorial on Using the Cornell Method in OneNote</h3>
+<p>This short video explains how you could transfer the Cornell Method into Microsoft’s OneNote to help you take effective notes in Lectures. In the left margin, remember to bulletpoint specific slides that you want to re-watch using lecture recording. At the bottom, remember to add the intending learning outcomes so that you can test yourself by turning them into questions.</p>
+<p><centre></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUOuG4Py5wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p></centre></p>
+<p><br></p>
 </div>
-<div id="problem-1" class="section level1">
-<h1>Problem 1</h1>
-<p>Do simple math with numbers, addition, subtraction, multiplication, division</p>
-<pre class="r"><code>1+2</code></pre>
-<pre><code>## [1] 3</code></pre>
-<pre class="r"><code>2*5</code></pre>
-<pre><code>## [1] 10</code></pre>
-<pre class="r"><code>5/3</code></pre>
-<pre><code>## [1] 1.666667</code></pre>
-<pre class="r"><code>(1+6+4)/5</code></pre>
-<pre><code>## [1] 2.2</code></pre>
 </div>
-<div id="problem-2" class="section level1">
-<h1>Problem 2</h1>
-<p>Put numbers into variables, do simple math on the variables</p>
-<pre class="r"><code>a&lt;-1
-b&lt;-2
-a+b</code></pre>
-<pre><code>## [1] 3</code></pre>
-<pre class="r"><code>d&lt;-c(1,2,3)
-e&lt;-c(5,6,7)
-d+e</code></pre>
-<pre><code>## [1]  6  8 10</code></pre>
-<pre class="r"><code>d*e</code></pre>
-<pre><code>## [1]  5 12 21</code></pre>
-<pre class="r"><code>d/e</code></pre>
-<pre><code>## [1] 0.2000000 0.3333333 0.4285714</code></pre>
+<div id="revising" class="section level1">
+<h1>Revising</h1>
+<div id="flashcard-app-that-uses-spaced-repetition" class="section level3">
+<h3><a href="https://apps.ankiweb.net/">Flashcard App that Uses Spaced Repetition</a></h3>
+<p>Research has shown that it is best to space your learning over time. Maybe you re-watch 10 minutes of a difficult lecture one day after the live presentation (online and/or on campus), then you watch the same section one week later, then you watch it one month later. Spacing your learning out like this gives you the opportunity to try recall difficult information before you passively re-watch a specific segment of a lecture. This mobile and desktop flashcard application employs a spaced repetition algorithm so that you will be prompted to test your recall just as you are about to forget what you have learned. Of course, you can do this manually with self-made flashcards, but you might prefer an app.</p>
 </div>
-<div id="problem-3" class="section level1">
-<h1>Problem 3</h1>
-<p>Write code that will place the numbers 1 to 100 separately into a variable using for loop. Then, again using the seq function.</p>
-<pre class="r"><code># for loop solution
-# i becomes the number 1 to 100 at each step of the loop
-
-
-a &lt;- length(100) # make empty variable, set length to 100
-for (i in 1:100){
-  a[i] &lt;-i #assigns the number in i, to the ith index of a
-}
-
-print(a)</code></pre>
-<pre><code>##   [1]   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18
-##  [19]  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36
-##  [37]  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54
-##  [55]  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71  72
-##  [73]  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90
-##  [91]  91  92  93  94  95  96  97  98  99 100</code></pre>
-<pre class="r"><code># for loop solution #2
-
-a&lt;-c() #create empty variable using combine command
-for (i in 1:100){
-  a&lt;-c(a,i) # keeps combining a with itself and the new number in i
-}
-print(a)</code></pre>
-<pre><code>##   [1]   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18
-##  [19]  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36
-##  [37]  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54
-##  [55]  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71  72
-##  [73]  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90
-##  [91]  91  92  93  94  95  96  97  98  99 100</code></pre>
-<pre class="r"><code># seq solution
-a &lt;- seq(1,100,1) # look up help for seq using ?seq() in console
-print(a)</code></pre>
-<pre><code>##   [1]   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17  18
-##  [19]  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36
-##  [37]  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54
-##  [55]  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71  72
-##  [73]  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90
-##  [91]  91  92  93  94  95  96  97  98  99 100</code></pre>
+<div id="website-and-application-that-uses-spaced-repetition" class="section level3">
+<h3><a href="https://www.memrise.com/">Website and Application that Uses Spaced Repetition</a></h3>
+<p>Similar to the flashcard application above, this website (and mobile app) allows you to make flashcards to test yourself over a spaced period of time. The website (and app) are designed like a game, which may be more engaging than traditional flashcards. The better you perform with each flashcard the less you will see it.</p>
 </div>
-<div id="replace-this-with-problem-4" class="section level1">
-<h1>Replace this with problem 4</h1>
-<p>And keep going. Try to solve the problems with different scripts that provide the same solution. Good luck, Happy coding.</p>
+<div id="video-on-effective-memorisation" class="section level3">
+<h3>Video on Effective Memorisation</h3>
+<p>After having re-watched the difficult sections of your lectures, you may need to memorise that information for on-campus and/or online exams. Research has shown that passive reading and route memorisation (or repetition) are not effective memory techniques. Using your visual memory (e.g. method of loci), mnemonics (e.g. acronyms), and spaced repetition are much more effective. Try some of these techniques when watching difficult sections of your lectures. Remember that online and on-campus exams will be testing your active recall of material that you will have learned through lectures and your extra reading. For an introduction to making crazy visual memories, watch this YouTube video.</p>
+<p><centre></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nFkQ4cQhME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p></centre></p>
+</div>
+<div id="blog-post-on-effective-memorisation" class="section level3">
+<h3><a href="https://zapier.com/blog/better-memory/">Blog Post on Effective Memorisation</a></h3>
+<p>This blog post covers most of the evidence-based memory techniques. You can combine effective note taking, targeted revision of your lecture slides using lecture recording, and these memory techniques to enhance your engagement with your (online and/ or on-campus) course(s). For example, you attend your lecture (virtually or in person) and take Cornell Notes, then over two weeks you might practise testing yourself (following your weekly planner) using the ILOs on your notes, then if you are still struggling, you will plan some time to rewatch specific sections of your lecture. When you have got a handle on the material, you might employ one of the memory techniques to maximise retention. The more you actively engage with the material, the better!</p>
+<p><br></p>
+</div>
+</div>
+<div id="evidence-based-learning-and-study-strategies" class="section level1">
+<h1>Evidence-Based Learning and Study Strategies</h1>
+<div id="podcast-episodes-on-evidence-based-learning-strategies-httpswww.learningscientists.orgpodcast-episodes" class="section level3">
+<h3>[Podcast Episodes on Evidence-based Learning Strategies] (<a href="https://www.learningscientists.org/podcast-episodes" class="uri">https://www.learningscientists.org/podcast-episodes</a>)</h3>
+<p>For more (bitesize) information on evidence-based learning strategies, check out this website, which is run by learning specialists.</p>
+</div>
+<div id="video-on-effective-study-habits" class="section level3">
+<h3>Video on Effective Study Habits</h3>
+<p>Watch this visual to get an accessible introduction to spaced repetition, elaborative encoding, practice retrieval and dual coding.</p>
+<p><centre></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPxSzxylRCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+<p></centre></p>
+</div>
 </div>
 
 
