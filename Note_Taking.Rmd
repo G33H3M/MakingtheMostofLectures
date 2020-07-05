@@ -36,13 +36,13 @@ Remember that after completing the exercises in this section, you can transfer w
 
 ### Examples of Lecture Notes
 
-Hopefully, the short video has shown you the utility of taking efficient notes during your online and/or on-campus lectures. Looking at the example of Cornell notes in this folder, you will see some bullet points in the left margin that are dedicated to the later use of lecture recording. 
+Hopefully, the short video has shown you the utility of taking efficient notes during your [online](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) and/or on-campus lectures. Looking at the example of Cornell notes in this folder, you will see some bullet points in the left margin that are dedicated to the later use of lecture recording. 
 
 In an initial lecture (on campus or virtual), if you identify a difficult concept, jot down the slide and rough time so that you can review the specific part of the recording later.
 
 When note-taking try to organise your notes in your own words and in your own way. Connect new information to old information and jot that connection down to help it stick in your memory.
 
-After completing the exercises in this section, remember that you can always transfer your knowledge and skills onto a computer/ mobile app for convenience (see additional resources).
+After completing the exercises in this section, remember that you can always transfer your knowledge and skills onto a computer/ mobile app for convenience (see [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#note_taking)).
 
 * [Example of Cornell Nots](downloads/Cornell_Notes_Example.pdf
 )
@@ -51,17 +51,17 @@ After completing the exercises in this section, remember that you can always tra
 
 # Task 2.1
 
-Watch TED's secret to great public speaking as your practice lecture and try taking Cornell style notes using the blank template below.
+Watch _TED's secret to great public speaking_ as your practice lecture and try taking Cornell style notes using the blank template below.
 
 ### Try a Pratice 'Lecture'
 
-Watch TED's secret to great public speaking as your practice lecture and try taking Cornell style notes using the blank template on the next page.
+Watch _TED's secret to great public speaking_ as your practice lecture and try taking Cornell style notes using the blank template on the next page.
 
-<centre>
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-FOCpMAww28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</centre>
+</center>
 
 # Task 2.2
 
@@ -73,4 +73,4 @@ Watch TED's secret to great public speaking as your practice lecture and try tak
 
 # Going Forward
 
-The 'Going Forward' section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
+The [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

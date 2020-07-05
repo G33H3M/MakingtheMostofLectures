@@ -18,48 +18,48 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Tutorial: Building SMART Lecture Goals into Your Planner
 
-Now that you have an idea of how your semester will look and when your key deadlines are, you have a timeframe in which you can create SMART goals for interacting with your lecture content. SMART stands for:
+Now that you have an idea of how your semester will look and when your key deadlines are, you have a timeframe in which you can create **SMART** goals for interacting with your lecture content. **SMART** stands for:
 
-*S*pecific 
+**S**pecific 
 
-* *What* do you want to achieve from your online and/or on-campus lectures? 
-* *Why* are these lectures important to you?
-* *Who* is involved in your lecture related goals?
-* *Where* will you lecture goals take place?
-* *Which* resources/ limits are involved in achieving your goals for lectures?
+* **What** do you want to achieve from your online and/or on-campus lectures? 
+* **Why** are these lectures important to you?
+* **Who** is involved in your lecture related goals?
+* **Where** will you lecture goals take place?
+* **Which** resources/ limits are involved in achieving your goals for lectures?
 
-*M*easurable 
+**M**easurable 
 
 * What will you measure to assess your progress?  The number of understood lectures? The number of quality notes written during and/or after your lectures?
-* Quantify your goal so you will know when you have achieved it!
+* _Quantify_ your goal so you will know when you have achieved it!
 
-*A*chievable 
+**A**chievable 
 
 * Although it will stretch me, is my goal doable?
-* Will I be able to attend all of my lectures live (either on campus or through an online learning platform)?
+* Will I be able to _attend_ all of my lectures live (either on campus or through an online learning platform)?
 * Do I have some unavoidable commitment whereby I will have to set a goal to catch up on a lecture using lecture recording in my own time?
 
-*R*ealistic 
+**R**ealistic 
 
 * Is my lecture goal worthwhile?
 * Is this the right time to pursue my goal?
 
-*T*imely 
+**T**imely 
 
 * When will it be completed?
 * How long will it take to complete?
 * What can I do today in the time that I have in order to make progress on my goal?
 
-Using your semester planner, and the resources in this section, try to create a SMART goal that you could insert into your weekly planner. For example, you may have already identified a difficult section in a recent lecture that you want to better understand. Think about the steps that you will take to get a better understanding of that topic using your lecture materials (e.g. for notes, see the next section). Think about how you will incorporate lecture recordings as a step in achieving your SMART goal. To help you do this, watch the YouTube video on the following page (Task 1).
+Using your semester planner, and the resources in this section, try to create a **SMART** goal that you could insert into your weekly planner. For example, you may have already identified a difficult section in a recent lecture that you want to better understand. Think about the steps that you will take to get a better understanding of that topic using your lecture materials (e.g. for notes, see the [next section](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html)). Think about how you will incorporate lecture recordings as a step in achieving your **SMART** goal. To help you do this, watch the YouTube video on the following page ([Task 1](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html#task_1)).
 
-After completing the exercises in this section, you could transfer your SMART goal knowledge to a computer/ mobile app for convenience (see additional resources). Also, remember to add time to your timetable (online or offline) to reflect on your SMART goal progress. Ask yourself what is going well and what you need to change to accomplish your goal. For more information on reflection, see going forward.
+After completing the exercises in this section, you could transfer your **SMART** goal knowledge to a computer/ mobile app for convenience (see additional resources). Also, remember to add time to your timetable (online or offline) to reflect on your **SMART** goal progress. Ask yourself what is going well and what you need to change to accomplish your goal. For more information on reflection, see [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html).
 
 <br>
 
 # Task 1
 ### An Overview of SMART Goals
 
-To get a quick overview of what SMART goals are, take a look at this informative video. Whilst watching this video, think about how your university experience will look and how SMART goals will fit into your own timetable. Specifically, think about whether you will be engaging with lectures on campus, remotely or through a blended approach. 
+To get a quick overview of what **SMART** goals are, take a look at this informative video. Whilst watching this video, think about how your university experience will look and how **SMART** goals will fit into your own timetable. Specifically, think about whether you will be engaging with lectures on campus, remotely or through a blended approach. This means that your *SMART** goals should be tailored to _who_ you are as a student. Think about the goals that you have for learning with lectures and how you will implement them in the specific learning environment that you will be in. 
 
 <center>
 
@@ -72,7 +72,7 @@ To get a quick overview of what SMART goals are, take a look at this informative
 # Resources
 ### Examples of (not so) SMART Lecture Goals
 
-Compare and contrast the two examples of SMART goals. The bad example is not specific, does not provide a measurable outcome, and is not time-bound in clear way. You should be as specific as possible with your goals' 5 components (S.M.A.R.T.)
+Compare and contrast the two examples of **SMART** goals. The bad example is not specific, does not provide a measurable outcome, and is not time-bound in clear way. You should **be as specific as possible** with your goals' 5 components (**S.M.A.R.T.**)
 
 * [Example of a Bad SMART Goal](downloads/SMART_Bad_Example.pdf
 )
@@ -91,40 +91,38 @@ Compare and contrast the two examples of SMART goals. The bad example is not spe
 
 # Tutorial 2
 
-Making SMART goals can be easy; but implementing them can sometimes be tricky. Read this short tutorial for some top tips on how best to implement your SMART goals.
+Making **SMART** goals can be easy; but implementing them can sometimes be tricky. Read this short tutorial for some top tips on how best to implement your **SMART** goals.
 
 ### Implementing and Achieving Your SMART Lecture goals
 
-After you have developed SMART goals (for instance, using lecture recordings to clarify a difficult online lecture), the next step is taking action to successfully implement these goals. Implementing your SMART goals requires planning, executing, and monitoring your progress towards your goals. 
+After you have developed **SMART** goals (for instance, using lecture recordings to clarify a difficult online lecture), the next step is taking action to successfully implement these goals. Implementing your **SMART** goals requires planning, executing, and monitoring your progress towards your goals. 
 
-*Planning*
+**Planning**
 
-* Thoroughly establish the subgoals that will lead to you successfully completing your SMART goal. Think about exactly what you need to do and when to achieve your goal. Creating an explicit link between what you have to do and when you have to do it increases the likelihood of the goal being implemented.
+* Thoroughly establish the subgoals that will lead to you successfully completing your **SMART** goal. Think about _exactly_ what you need to do and when to achieve your goal. Creating an explicit link between _what_ you have to do and _when_ you have to do it increases the likelihood of the goal being implemented.
 
-*Executing*
+**Executing**
 
 *Take concrete and decisive action to implement the subgoals.
 
-*Monitoring*
+**Monitoring**
 
-* As you work towards your goal, take note of things that are going well and things that are not going so well. Update your SMART goals (and subgoals) accordingly.
+* As you work towards your goal, take note of things that are going well and things that are not going so well. Update your **SMART** goals (and subgoals) accordingly.
 
-Here are some top tips for implementing your SMART lecture goals:
+Here are some top tips for implementing your **SMART** lecture goals:
 
 1. Insert your subgoals into your weekly planner.
 2. Make your subgoals high priority in your planner and complete them early in the day.
-3. Use a daily planner app on your phone to further breakdown the daily steps you can take.
-4. Write your SMART goal somewhere you will see it daily.
-5. Check off the subgoal milestones as you complete them so you can see the progress that you are making (use a checklist app).
-6. Share your SMART goals with other people (for example, a study group) so you can be supported and encouraged by others. You might even be held accountable!
+3. Use a [daily planner](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#time_keeping) app on your phone to further breakdown the daily steps you can take.
+4. Write your **SMART** goal somewhere you will see it daily.
+5. Check off the subgoal milestones as you complete them so you can see the progress that you are making (use a [checklist app](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#goal_setting)).
+6. Share your **SMART** goals with other people (for example, a study group) so you can be supported and encouraged by others. You might even be held accountable!
 7. Collect all the materials you need to implement your goal in advance.
 8. Complete at least one action per day.
-9. Reward yourself when you implement your SMART goals.
+9. Reward yourself when you implement your **SMART** goals.
 
 <br>
 
 # Going Forward
 
-The 'Going Forward' section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
-
-
+The [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

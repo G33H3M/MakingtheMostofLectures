@@ -75,29 +75,29 @@ If you have identified procrastination as a challenge in your personal reflectio
 
 #### What is it?
 
-* Watch this short animation to get a grip on what the pomodoro (Italian for tomato... all will be revealed) technique is.
+* Watch this short animation to get a grip on what the pomodoro (Italian for _tomato_... all will be revealed) technique is.
 
-<centre>
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqBuh4HWu8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</centre>
+</center>
 
 #### How can I use it?
 
-* With your timetable and SMART goals for each course at hand, break down your tasks into small chunks of 25 minutes + 5 minutes break. You would have two pomodoro chunks per hour on your timetable. 
-* Say you have a particular lecture for which you want to create flashcards. Firstly, decide on where and when you want to work on this task (based on your reflection). Your SMART goal details that you want to create 15 flashcards for this lecture based on 5 ILOs. You need to change the ILOs into questions and then you need to use your notes to find the answers to the questions. Of course, you would try to answer the questions before looking at your lecture notes (active recall). For 25 minutes, you work on making flashcards. You are able to make 5 amazing flashcards in this time period. You would need about 3 pomodoro chunks to complete this task.
-* Set a timer on your phone (or use the link below if you are really committed and don't want to look at your phone at all) and work for 25 minutes without any distractions. After the 25 minutes, take note of your progress (for reflection) and have a 5 minutes break. 
+* With your [timetable](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) and [**SMART** goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) for each course at hand, break down your tasks into small chunks of 25 minutes + 5 minutes break. You would have two pomodoro chunks per hour on your timetable. 
+* Say you have a particular lecture for which you want to create flashcards. Firstly, decide on where and when you want to work on this task (based on your reflection). Your **SMART** goal details that you want to create 15 flashcards for this lecture based on 5 ILOs. You need to change the ILOs into questions and then you need to use your [notes](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html) to find the answers to the questions. Of course, you would try to answer the questions before looking at your lecture notes ([active recall](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#evidence-based_learning_and_study_strategies)). For 25 minutes, you work on making flashcards. You are able to make 5 amazing flashcards in this time period. You would need about 3 pomodoro chunks to complete this task.
+* Set a timer on your phone (or use the link below if you are really committed and don't want to look at your phone at all) and work for 25 minutes without any distractions. After the 25 minutes, take note of your progress (for [reflection](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html#reflection)) and have a 5 minutes break. 
 * Repeat this twice within your hour chunk on the timetable. However, you might find that working in pomodoro chunks is more effective that sticking to hour blocks on the timetable. In this case, you could fill you timetable with tasks to be done each day (ignoring time blocks) and work your way through them in pomodoro chunks.
 * As you implement these skills, it will become apparent what works well for you and what doesn't. When you have identified this, update your planner and skills accordingly. 
 
 #### Pomodoro Timer
 
-<centre>
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1znjHDiqBk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</centre>
+</center>
 
 #### Additional Resources
 

@@ -22,19 +22,19 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 If you are enrolled in a course that will deliver some (or all) of its teaching online, then work your way through this tutorial in order to start thinking about how you will make the most of engaging with your studies in a remote learning environment. 
 
-Remember that the skills of time keeping, goal setting and note taking apply no matter the environment in which you will be learning. Of course, when it comes to revising for online exams you can also use the evidence-based information in the revision section of this course to support your studying. No matter where you will be learning, there will always be additional resources available to support your learning and you are encouraged to reach out to staff and fellow students if you need some extra support.
+Remember that the skills of [time keeping](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html), [goal setting](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) and [note taking](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html) apply no matter the environment in which you will be learning. Of course, when it comes to revising for online exams you can also use the evidence-based information in the [revision section](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html) of this course to support your studying. No matter where you will be learning, there will always be [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html) available to support your learning and you are encouraged to reach out to staff and fellow students if you need some [extra support](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Seeking_Help.html).
 
 ** Whilst working your way through this tutorial, reflect on how you will implement your new study skills gained from the other sections in an online setting.**
 
 ### Task (15 mins): Four Factors for Effective Online Learning
 
-To go a bit deeper on effective online learning, watch this informative video. As a bonus activity make some SMART goals for how you will implement the advice in this video as an online learner.
+To go a bit deeper on effective online learning, watch this informative video. As a bonus activity make some [**SMART** goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) for how you will implement the advice in this video as an online learner.
 
-<centre>
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eF-Z1hJ67-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</centre>
+</center>
 
 <br>
 
@@ -46,7 +46,7 @@ Regardless of whether your course is part time or full time, you will be expecte
 
 #### Credits
 
-Every course in which you can enrol at the University (online, on campus and/or blended) has a specific credit load associated with it. A credit load indicates how much work is expected in order to complete the course and in order to achieve a high grade in the relevant assessment(s).
+Every course in which you can enrol at the University (online, on campus and/or blended) has a specific credit load associated with it. A credit load indicates *how much work* is expected in order to complete the course and in order to achieve a high grade in the relevant assessment(s).
 
 #### What is a credit worth?
 
@@ -60,37 +60,37 @@ Each credit for each course indicates a workload of 10 hours. These 10 hours inc
 #### A worked example
 
 * Each full-time undergraduate course is associated with a credit load of 120 credits per year (often comprising multiple 10 or 20-credit courses)
-* This means you should be spending 1200 hours across semester one and semester two in order to sufficiently engage with the course and demonstrate your excellence in the courses' ILOs
+* This means you *should* be spending 1200 hours across semester one and semester two in order to sufficiently engage with the course and demonstrate your excellence in the courses' ILOs
 * With an academic year consisting of 30 teaching weeks across the two semesters, you should be spending 40 hours per week engaging with your course (1200 hours/ 30 weeks)
 * These 40 hours will include time spent in tutorials, seminars, and lectures (online and/ or on campus). Therefore, after deducting the time spent in these core activities, you will have an estimate of the remaining time you should be using to:
-  + Revise lectures with recordings
-  + Engage with your assigned readings (and extra readings)
-  + Revise in your study groups (e.g. using Microsoft Teams)
-  + Make revision grids
-  + Test your knowledge based on ILOs (by making revision questions and/ or flashcards)
-  + Review your timetable and revision schedule
-  + Reflect on your SMART goals
-  + Design and implement new SMART goals
-  + Interact with lecturers in their office hours (e.g. by organising a virtual meeting through an app like Zoom)
+  + [**Revise** lectures with recordings](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html)
+  + [**Engage** with your assigned readings (and extra readings)](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html)
+  + [**Revise** in your study groups (e.g. using Microsoft Teams)](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Seeking_Help.html)
+  + [**Make** revision grids](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html)
+  + [**Test** your knowledge based on ILOs (by making revision questions and/ or flashcards)](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html)
+  + [**Review** your timetable and revision schedule](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html)
+  + [**Reflect** on your SMART goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html)
+  + [**Design** and implement new SMART goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html)
+  + [**Interact** with lecturers in their office hours (e.g. by organising a virtual meeting through an app like Zoom)](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Seeking_Help.html)
 
 #### Managing Your Time
 
-If you are enrolled in an online course for the first time, then it may be a good idea to monitor how you are spending your time over the first few weeks. This might involve using the reflection grid in this course by asking yourself the following kinds of questions:
+If you are enrolled in an online course for the first time, then it may be a good idea to monitor how you are spending your time over the first few weeks. This might involve using the [reflection grid](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) in this course by asking yourself the following kinds of questions:
 
-1. Did I complete all of the SMART goals that I had set for myself?
+1. Did I complete all of the **SMART** goals that I had set for myself?
 2. Was my study space most efficient and conducive to completing my goals?
 3. Was I able to incorporate time for self care and exercise into my timetable?
 4. Have I been feeling well rested and content with how my studies have been going?
 5. Was I dedicating sufficient time each week to reading extra materials (e.g. journal articles, textbooks, and secondary sources etc)?
 6. How have I found online lectures and lecture recordings? How can I better engage with them?
 
-By reflecting on your time management over the course of a few weeks you will be able to ascertain if your study habits as an online learner allow you to complete your SMART goals; work around other commitments that you have; and support your health and wellbeing.
+By reflecting on your time management over the course of a few weeks you will be able to ascertain if your study habits as an online learner allow you to complete your **SMART** goals; work around other commitments that you have; and support your health and wellbeing.
 
 #### Top Tips
 
-* Complete a weekly timetable to ensure you will complete all the necessary work for your courses. Be as specific as possible in terms of where you will study, with whom you will study, and how you will study. Allocate time during the week to reflect on these goals.
-* Make a semester timetable to get an overview of your deadlines. Calculate how much time you have until the submission and how much time you will need to prepare your assigment. Based on these calculations, you can start to make SMART goals that will help you complete your goal. Add this to your weekly planner.
-* Make use of the pomodoro technique to break your work in 20-minute, distraction-free chunks of time. 
+* Complete a [weekly timetable](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) to ensure you will complete all the necessary work for your courses. Be as specific as possible in terms of where you will study, with whom you will study, and how you will study. Allocate time during the week to [reflect on these goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html).
+* Make a [semester timetable](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) to get an overview of your deadlines. Calculate how much time you have until the submission and how much time you will need to prepare your assigment. Based on these calculations, you can start to make [**SMART** goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) that will help you complete your goal. Add this to your weekly planner.
+* Make use of the [pomodoro technique](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) to break your work in 20-minute, distraction-free chunks of time. 
 * Reward yourself for completing your goals within the time you allocated.
 * Allocate time for self-care habits like outdoor exercise or a zoom call with friends and/or family.
 
@@ -98,11 +98,11 @@ By reflecting on your time management over the course of a few weeks you will be
 
 Have a watch at this short video to consolidate what you learned in the tutorial above. Remember to reflect on your personal circumstances and who you are as student. Tailor the advice in this video to meet your needs.
 
-<centre>
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WOzMEBsWU7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</centre>
+</center>
 
 <br>
 
@@ -112,11 +112,11 @@ Have a watch at this short video to consolidate what you learned in the tutorial
 
 When working remotely (e.g. at home), it can be really helpful to designate an area in which you will do all of your studying and learning. This sets up an environment associated in your mind with work in which you can (1) keep all of your materials together and (2) be free from as many distractions as possible. Watch this short video for some top tips on creating an effective study space. 
 
-<centre>
+<center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXDODZYxjFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</centre>
+</center>
 
 #### [Task: Computer Workstation Ergonomics](http://www.safety.uwa.edu.au/health-wellbeing/physical/ergonomics/workstation)
 
