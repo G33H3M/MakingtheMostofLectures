@@ -24,7 +24,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 ### Tutorial: An Overview of the Cornell Method
 
-To get a quick overview of what the Cornell Method of effective note taking is, take a look at this brief informative video.
+Whether you are engaging with on-campus or online lectures, it is likely that you will be taking your fair share of notes as a student. Indeed, when it comes to [_revising_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html) for your exams you will be using your notes a lot. Whilst there are many different styles of notes that one can take, the general advice is that you should **not** be writing down information verbatim. It is far more useful and effective for your memory if you actively think about what you are hearing and summarise it in your own words. One fairly prominent method of taking notes in the literature is called the _Cornell Method_. To get an overview of what the Cornell Method of effective note taking is, take a look at this brief informative video. If when watching this tutorial you identify any areas in which you could improve your skills, implement what you have learned in the [_**SMART** goal_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) section by thinking about how you will get better at note taking. In addition, use what you learned in the [_time keeping_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) section to proactively create time to implement your **SMART** goal. 
 
 <br>
 

@@ -18,9 +18,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 ***
 
-# Tutorial
+# General Information
 
 <br>
+
+### Tutorial: How to Revise with Lecture Recordings
 
 For most students, exams are an unavoidable part of university. Have you ever wondered how best to study with your lecture materials? Have a quick read of this short tutorial before attempting the following exercises.
 
@@ -31,6 +33,8 @@ Research has shown that the best way to engage and revise your courses is to do 
 Instead, you should learn as you go along by actively interacting with the lecture materials (slides and recordings) over increasingly longer intervals. When doing this, it is best to test your knowledge, rather than re-read your notes or re-watch the course's lecture recordings.
 
 Indeed, they say that _practice makes perfect_: so, in order to perfect your exam performance, you should practice what you will be doing in the exam. That is, you should practice _recalling_ your knowledge. You won't be re-reading your notes or re-watching lecture recordings in the exam, but you will have to _actively remember_ your notes without having them in front of you. This is what you _should_ practice. Some ways of doing this are:
+
+<br>
 
 * Flashcards on a lecture's main points or terminology.
 * Explaining your notes back to yourself without looking.
@@ -43,6 +47,8 @@ Indeed, they say that _practice makes perfect_: so, in order to perfect your exa
 * Make analogies and connections between different parts of lectures.
 * Re-watch 5-minute sections of different lectures to see how the concepts relate.
 
+<br>
+
 It is important that you monitor how successful these strategies are for you. Test yourself and if you don't see your score improving, think about why this is the case and make adjustments. Maybe you need to engage with the notes you took in lectures in a different way. Have you tried drawing your notes or devising silly stories to explain difficult concepts? If it isn't working for you, try something else.
 But remember, you learn by testing yourself; you don't learn by practising reading. **Practise what you will do in the exam and do it over a period of time.**
 
@@ -54,13 +60,15 @@ Using your [revision grid](https://grahamreidpsychology.github.io/MakingtheMosto
 
 <br>
 
-# Task 1
+# Introduction to Spaced Repetition
 
 <br>
 
-### An Introduction to Spaced Repetition
+### Task 1: Watch this Video on Spaced Repetition
 
 For an overview of what spaced repetition is and its importance for students, take a look at this quick informative video.
+
+<br>
 
 <center>
 
@@ -70,7 +78,7 @@ For an overview of what spaced repetition is and its importance for students, ta
 
 <br>
 
-# Resources
+# Examples of Spaced Revision Grids
 
 <br>
 
@@ -78,7 +86,7 @@ In this spreadsheet, at the bottom there is a page for each lecture (you could h
 
 For the problematic questions, look at the [**SMART** goal](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) section of this course and think about how you will improve your understanding of the topic, using a *specific*, *measurable*, *achievable*, *realistic*, and *time-bound* goals. Your goals should detail the lecture materials you will use and the memory techniques that you will use to get a grasp on the topic. You could then add your goal into your weekly planner. For more advice on effective revision, see the [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#revising) section.
 
-### Examples of a Spaced Revision Grid
+### Resources
 
 * [PDF Example of a Revision Grid](downloads/Revision_Grid_Example.pdf
 )
@@ -87,11 +95,11 @@ For the problematic questions, look at the [**SMART** goal](https://grahamreidps
 
 <br>
 
-# Task 2
+# Creating Your Own Grid
 
 <br>
 
-### Create Your Own Spaced Revision Grid
+### Task 2: Create Your Own Revision Grid
 
 * [Blank Revision Grid Template](downloads/Revision_Template.xlsx)
 

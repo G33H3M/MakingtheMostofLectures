@@ -24,6 +24,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 #### [Tutorial: Thinking about Learning Online](https://sway.office.com/jjz21zd2E9cg3CO3)
 
+<br>
+
 If you are enrolled in a course that will deliver some (or all) of its teaching online, then work your way through this tutorial in order to start thinking about how you will make the most of engaging with your studies in a remote learning environment. 
 
 Remember that the skills of [time keeping](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html), [goal setting](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) and [note taking](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html) apply no matter the environment in which you will be learning. Of course, when it comes to revising for online exams you can also use the evidence-based information in the [revision section](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html) of this course to support your studying. No matter where you will be learning, there will always be [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html) available to support your learning and you are encouraged to reach out to staff and fellow students if you need some [extra support](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Seeking_Help.html).
@@ -52,11 +54,17 @@ To go a bit deeper on effective online learning, watch this informative video. A
 
 ### Tutorial: Time Keeping as an Online Learner
 
+<br>
+
 Regardless of whether your course is part time or full time, you will be expected to dedicate a significant proportion of your time to your online courses. Read through this short tutorial to get a better understanding of how many hours you should be dedicating to your online learning
+
+<br>
 
 #### Credits
 
 Every course in which you can enrol at the University (online, on campus and/or blended) has a specific credit load associated with it. A credit load indicates *how much work* is expected in order to complete the course and in order to achieve a high grade in the relevant assessment(s).
+
+<br>
 
 #### What is a credit worth?
 
@@ -66,6 +74,8 @@ Each credit for each course indicates a workload of 10 hours. These 10 hours inc
 * Time spent in seminars and tutorials (online and/or on campus)
 * Time spent preparing for classes (e.g. at home)
 * Time spent studying and revising materials (private study and/or group study through a conferencing app like Zoom)
+
+<br>
 
 #### A worked example
 
@@ -83,6 +93,8 @@ Each credit for each course indicates a workload of 10 hours. These 10 hours inc
   + [**Design** and implement new SMART goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html)
   + [**Interact** with lecturers in their office hours (e.g. by organising a virtual meeting through an app like Zoom)](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Seeking_Help.html)
 
+<br>
+
 #### Managing Your Time
 
 If you are enrolled in an online course for the first time, then it may be a good idea to monitor how you are spending your time over the first few weeks. This might involve using the [reflection grid](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) in this course by asking yourself the following kinds of questions:
@@ -95,6 +107,8 @@ If you are enrolled in an online course for the first time, then it may be a goo
 6. How have I found online lectures and lecture recordings? How can I better engage with them?
 
 By reflecting on your time management over the course of a few weeks you will be able to ascertain if your study habits as an online learner allow you to complete your **SMART** goals; work around other commitments that you have; and support your health and wellbeing.
+
+<br>
 
 #### Top Tips
 
@@ -153,6 +167,7 @@ It is important to pay attention to your physical health when interacting with c
 This tutorial is full of useful information for maintaining good mental health as an online learner. Work your way through the tutorial and engage with some of the materials to learn how you can best support your psychological wellbeing as a remote learner.
 
 **Remember if you have any concerns, you can get in touch with counselling and psychological services at the University.** 
+
 <br>
 
 # Internet Safety

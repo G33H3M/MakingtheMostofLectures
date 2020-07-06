@@ -26,6 +26,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 Now that you have an idea of how your semester will look and when your key deadlines are, you have a timeframe in which you can create **SMART** goals for interacting with your lecture content. **SMART** stands for:
 
+<br>
+
 **S**pecific 
 
 * **What** do you want to achieve from your online and/or on-campus lectures? 
@@ -34,10 +36,14 @@ Now that you have an idea of how your semester will look and when your key deadl
 * **Where** will you lecture goals take place?
 * **Which** resources/ limits are involved in achieving your goals for lectures?
 
+<br>
+
 **M**easurable 
 
 * What will you measure to assess your progress?  The number of understood lectures? The number of quality notes written during and/or after your lectures?
 * _Quantify_ your goal so you will know when you have achieved it!
+
+<br>
 
 **A**chievable 
 
@@ -45,16 +51,22 @@ Now that you have an idea of how your semester will look and when your key deadl
 * Will I be able to _attend_ all of my lectures live (either on campus or through an online learning platform)?
 * Do I have some unavoidable commitment whereby I will have to set a goal to catch up on a lecture using lecture recording in my own time?
 
+<br>
+
 **R**ealistic 
 
 * Is my lecture goal worthwhile?
 * Is this the right time to pursue my goal?
+
+<br>
 
 **T**imely 
 
 * When will it be completed?
 * How long will it take to complete?
 * What can I do today in the time that I have in order to make progress on my goal?
+
+<br>
 
 Using your semester planner, and the resources in this section, try to create a **SMART** goal that you could insert into your weekly planner. For example, you may have already identified a difficult section in a recent lecture that you want to better understand. Think about the steps that you will take to get a better understanding of that topic using your lecture materials (e.g. for notes, see the [_next section_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html)). Think about how you will incorporate lecture recordings as a step in achieving your **SMART** goal. To help you do this, watch the YouTube video on the following page ([_Task 1_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html#task_1)).
 
