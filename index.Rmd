@@ -1,6 +1,7 @@
 ---
 title: "Making the Most of Lectures"
-output: html_document
+output:
+  html_document
 ---
 
 <br>
@@ -13,6 +14,19 @@ Although completing the entire course at the start of the semester is preferable
 
 Finally, the skills you will learn here have been chosen because they work well together; but this course is in no way exclusive nor exhaustive. We encourage you to reflect on who you are as student and what your learning environment is like, using what you learn here as a springboard into exploring effective study strategies and the use of lectures (online and on campus) and lecture recordings in more depth.
 
-<br>
+&nbsp;
+<hr />
+<p style="text-align: center;">Designed by <a href="https://github.com/grahamreidpsychology">Graham Reid</a></p>
+<p style="text-align: center;"><span style="color: #808080;"><em>grahamreid123@outlook.com</em></span></p>
 
-**This course was designed by psychology student, Graham Reid.**
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://twitter.com/grahamreidpsych" class="fa fa-twitter"></a>
+    <a href="https://www.linkedin.com/in/graham-reid/" class="fa fa-linkedin"></a>
+    <a href="https://github.com/grahamreidpsychology" class="fa fa-github"></a>
+</p>
+
+&nbsp;
