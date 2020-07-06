@@ -18,7 +18,9 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 ***
 
-# Leads Website
+# LEADS Website
+
+<br>
 
 The [*Learning Enhancement and Academic Development Service*](https://www.gla.ac.uk/myglasgow/leads/students/) is here to support and to help enhance your success as a student at the University of Glasgow. LEADS offer a number of services ranging from advice on academic writing and advice on maths & stats, through academic writing and dissertation research classes throughout the year, to year-round, confidential one-to-one appointments. Information and support is available for both on-campus and remote learners. Check us out for more information.
 
@@ -28,15 +30,17 @@ The [*Learning Enhancement and Academic Development Service*](https://www.gla.ac
 
 # Time Keeping
 
-### [Timetable & Moodle App](https://www.gla.ac.uk/apps/)
+<br>
+
+#### [Timetable & Moodle App](https://www.gla.ac.uk/apps/)
 
 Follow this link to connect your university timetable to your calendar app. You will also find a link to downloading Moodle onto your phone or tablet. 
 
-### [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
+#### [Google Calendar](https://calendar.google.com/calendar/r?pli=1)
 
 If you would prefer to have a timetable and planner that can be synced across your devices, why not try Google Calendar? Using what you have learned in the [Time Keeping](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) section, try make your own weekly and semester planner. With Google Calendar, you can create different calendars to colour co-ordinate the different categories that you will have on your planner (e.g. online lectures, extracurricular, deadlines, on-campus classes). You can also set reminders for yourself and set events (such as on-campus lectures) to repeat at a certain interval (e.g. biweekly). To import your university calendar (see above) to google calendar, follow the information in the link above to download your calendar as a file that an be imported into your calendar app. 
 
-### [Pomotodo](https://pomotodo.com/)
+#### [Pomotodo](https://pomotodo.com/)
 
 Pomotodo is a time management tool based on the Pomodoro Technique (see section on [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html#overcoming_procrastination)) designed to combat procrastination and to increase productivity.
 
@@ -44,17 +48,21 @@ Pomotodo is a time management tool based on the Pomodoro Technique (see section 
 
 # Goal Setting
 
-### [Microsoft's To Do App Website (see app store for mobile apps)](https://todo.microsoft.com/en-us)
+<br>
+
+#### [Microsoft's To Do App Website (see app store for mobile apps)](https://todo.microsoft.com/en-us)
 
 The To Do App allows you to create to-do lists to help you stay organised and to make your tasks more manageable by breaking them down into simple steps. It also allows you to add due dates, share lists and set reminders to keep you on track.
 
-### [Google Tasks (computer and phone based)](https://todo.microsoft.com/en-us)
+#### [Google Tasks (computer and phone based)](https://todo.microsoft.com/en-us)
 
 Google Tasks allows you to create to-do lists, add details and create subtasks including creating tasks directly from an email. It also allows you to set due dates and reminders to keep your tasks on track.
 
 A good way to manage your [**SMART** goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) technologically is to use a checklist app, such as the ones above. Whilst there are many different apps out there, after choosing one that feels right for you, you can insert the parts of your **SMART** goal and check them off as you complete them. You can add the daily subgoals each day and check them off too. Google tasks works well with google calendar as you can add goals to specific days in your calendar (which will be your weekly and semester planner).
 
 For some advice on using Google Tasks, you can watch the video below: 
+
+<br>
 
 <center>
 
@@ -66,9 +74,13 @@ For some advice on using Google Tasks, you can watch the video below:
 
 # Note Taking
 
+<br>
+
 ### Tutorial on Microsoft's OneNote
 
 Using an application like OneNote will allow you take highly organised virtual notes: the software is designed like an online _ring binder_ folder with sections, dividers, and as many pages as you want. Watch this tutorial to get an overview of how to use it. You could even employ the Cornell method in OneNote. Follow the link below to find out more about using the Cornell method in OneNote. 
+
+<br>
 
 <center>
 
@@ -76,9 +88,13 @@ Using an application like OneNote will allow you take highly organised virtual n
 
 </center>
 
+<br>
+
 ### Tutorial on Using the Cornell Method in OneNote
 
 This short video explains how you could transfer the Cornell Method into Microsoft's OneNote to help you take effective notes in Lectures. In the left margin, remember to bulletpoint specific slides that you want to re-watch using lecture recording. At the bottom, remember to add the _intending learning outcomes_ so that you can test yourself by turning them into questions. 
+
+<br>
 
 <center>
 
@@ -90,17 +106,21 @@ This short video explains how you could transfer the Cornell Method into Microso
 
 # Revising
 
-### [Flashcard App that Uses Spaced Repetition](https://apps.ankiweb.net/)
+<br>
+
+#### [Flashcard App that Uses Spaced Repetition](https://apps.ankiweb.net/)
 
 Research has shown that it is best to space your learning over time. Maybe you re-watch 10 minutes of a difficult lecture one day after the live presentation (online and/or on campus), then you watch the same section one week later, then you watch it one month later. Spacing your learning out like this gives you the opportunity to try _recall_ difficult information before you passively re-watch a specific segment of a lecture. This mobile and desktop flashcard application employs a spaced repetition algorithm so that you will be prompted to test your _recall_ just as you are about to forget what you have learned. Of course, you can do this manually with self-made flashcards, but you might prefer an app.
 
-### [Website and Application that Uses Spaced Repetition](https://www.memrise.com/)
+#### [Website and Application that Uses Spaced Repetition](https://www.memrise.com/)
 
 Similar to the flashcard application above, this website (and mobile app) allows you to make flashcards to _test yourself_ over a spaced period of time. The website (and app) are designed like a game, which may be more engaging than traditional flashcards. The better you perform with each flashcard the less you will see it. 
 
-### Video on Effective Memorisation
+#### Video on Effective Memorisation
 
 After having re-watched the difficult sections of your lectures, you may need to memorise that information for on-campus and/or online exams. Research has shown that passive reading and route memorisation (or repetition) are not effective memory techniques. Using your visual memory (e.g. method of loci), mnemonics (e.g. acronyms), and spaced repetition are much more effective. Try some of these techniques when watching difficult sections of your lectures. Remember that online and on-campus exams will be testing your _active recall_ of material that you will have learned through lectures and your extra reading. For an introduction to making crazy _visual memories_, watch this YouTube video. 
+
+<br>
 
 <center>
 
@@ -108,7 +128,9 @@ After having re-watched the difficult sections of your lectures, you may need to
 
 </center>
 
-### [Blog Post on Effective Memorisation](https://zapier.com/blog/better-memory/)
+<br>
+
+#### [Blog Post on Effective Memorisation](https://zapier.com/blog/better-memory/)
 
 This blog post covers most of the _evidence-based_ memory techniques. You can combine effective note taking, targeted revision of your lecture slides using lecture recording, and these memory techniques to enhance your engagement with your (online and/ or on-campus) course(s). For example, you _attend_ your lecture ([virtually](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) or in person) and take Cornell Notes, then over two weeks you might practise testing yourself (following your weekly planner) using the ILOs on your notes, then if you are still struggling, you will plan some time to rewatch **specific** sections of your lecture. When you have got a handle on the material, you might employ one of the memory techniques to maximise retention. The more you _actively_ engage with the material, the better! 
 
@@ -116,13 +138,17 @@ This blog post covers most of the _evidence-based_ memory techniques. You can co
 
 # Evidence-Based Learning and Study Strategies
 
-### [Podcast Episodes on Evidence-based Learning Strategies] (https://www.learningscientists.org/podcast-episodes)
+<br>
+
+#### [Podcast Episodes on Evidence-based Learning Strategies](https://www.learningscientists.org/podcast-episodes)
 
 For more (bitesize) information on evidence-based learning strategies, check out this website, which is run by learning specialists.
 
 ### Video on Effective Study Habits
 
 Watch this visual to get an accessible introduction to spaced repetition, elaborative encoding, practice retrieval and dual coding.
+
+<br>
 
 <center>
 

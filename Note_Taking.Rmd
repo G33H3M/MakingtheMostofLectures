@@ -38,11 +38,11 @@ Remember that after completing the exercises in this section, you can transfer w
 
 <br>
 
-# Resources
+# Examples of Lecture Notes
 
 <br> 
 
-### Examples of Lecture Notes
+### Resources
 
 Hopefully, the short video has shown you the utility of taking efficient notes during your [online](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) and/or on-campus lectures. Looking at the example of Cornell notes in this folder, you will see some bullet points in the left margin that are dedicated to the later use of lecture recording. 
 
@@ -57,7 +57,7 @@ After completing the exercises in this section, remember that you can always tra
 
 <br>
 
-# Try a Pratice 'Lecture'
+# Trying a Pratice 'Lecture'
 
 <br>
 
@@ -65,13 +65,17 @@ After completing the exercises in this section, remember that you can always tra
 
 Watch _TED's secret to great public speaking_ as your practice lecture and try taking Cornell style notes using the blank template below.
 
+<br>
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-FOCpMAww28" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
-# Blank Template 
+<br>
+
+# Taking Your Own Notes 
 
 <br>
 

@@ -20,17 +20,23 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # General Advice
 
-### [Tutorial: Thinking about Learning Online](https://sway.office.com/jjz21zd2E9cg3CO3)
+<br>
+
+#### [Tutorial: Thinking about Learning Online](https://sway.office.com/jjz21zd2E9cg3CO3)
 
 If you are enrolled in a course that will deliver some (or all) of its teaching online, then work your way through this tutorial in order to start thinking about how you will make the most of engaging with your studies in a remote learning environment. 
 
 Remember that the skills of [time keeping](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html), [goal setting](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) and [note taking](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html) apply no matter the environment in which you will be learning. Of course, when it comes to revising for online exams you can also use the evidence-based information in the [revision section](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html) of this course to support your studying. No matter where you will be learning, there will always be [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html) available to support your learning and you are encouraged to reach out to staff and fellow students if you need some [extra support](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Seeking_Help.html).
 
-** Whilst working your way through this tutorial, reflect on how you will implement your new study skills gained from the other sections in an online setting.**
+**Whilst working your way through this** **tutorial, reflect on how you will** **implement your new study skills gained** **from the other sections in an online** **setting.**
+
+<br>
 
 ### Task (15 mins): Four Factors for Effective Online Learning
 
 To go a bit deeper on effective online learning, watch this informative video. As a bonus activity make some [**SMART** goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) for how you will implement the advice in this video as an online learner.
+
+<br>
 
 <center>
 
@@ -41,6 +47,8 @@ To go a bit deeper on effective online learning, watch this informative video. A
 <br>
 
 # Time Management
+
+<br>
 
 ### Tutorial: Time Keeping as an Online Learner
 
@@ -96,9 +104,13 @@ By reflecting on your time management over the course of a few weeks you will be
 * Reward yourself for completing your goals within the time you allocated.
 * Allocate time for self-care habits like outdoor exercise or a zoom call with friends and/or family.
 
+<br>
+
 ### Task (6 mins): Time Management as an Online Student
 
 Have a watch at this short video to consolidate what you learned in the tutorial above. Remember to reflect on your personal circumstances and who you are as student. Tailor the advice in this video to meet your needs.
+
+<br>
 
 <center>
 
@@ -110,15 +122,21 @@ Have a watch at this short video to consolidate what you learned in the tutorial
 
 # Office Space
 
+<br>
+
 ### Tutorial: Thinking about Creating a Study Space
 
 When working remotely (e.g. at home), it can be really helpful to designate an area in which you will do all of your studying and learning. This sets up an environment associated in your mind with work in which you can (1) keep all of your materials together and (2) be free from as many distractions as possible. Watch this short video for some top tips on creating an effective study space. 
+
+<br>
 
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXDODZYxjFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
+
+<br>
 
 #### [Task: Computer Workstation Ergonomics](http://www.safety.uwa.edu.au/health-wellbeing/physical/ergonomics/workstation)
 
@@ -128,7 +146,9 @@ It is important to pay attention to your physical health when interacting with c
 
 # Staying Healthy
 
-### [Tutorial: Managing Stress and Anxiety](https://sway.office.com/s/hm1RRozBnPmEPoU4/embed)
+<br>
+
+#### [Tutorial: Managing Stress and Anxiety](https://sway.office.com/s/hm1RRozBnPmEPoU4/embed)
 
 This tutorial is full of useful information for maintaining good mental health as an online learner. Work your way through the tutorial and engage with some of the materials to learn how you can best support your psychological wellbeing as a remote learner.
 
@@ -137,11 +157,13 @@ This tutorial is full of useful information for maintaining good mental health a
 
 # Internet Safety
 
-### [Information Security](https://www.gla.ac.uk/myglasgow/it/informationsecurity/)
+<br>
+
+#### [Information Security](https://www.gla.ac.uk/myglasgow/it/informationsecurity/)
 
 Working remotely with internet devices means that you have some extra security considerations. Have a look at this page offered by the University’s IT department to keep yourself and your data safe online.
 
-### [Data Protection and Freedom of Information](https://www.gla.ac.uk/myglasgow/dpfoioffice/)
+#### [Data Protection and Freedom of Information](https://www.gla.ac.uk/myglasgow/dpfoioffice/)
 
 Follow this link for more information of data protection, freedom of information, and GDPR.
 
@@ -149,24 +171,26 @@ Follow this link for more information of data protection, freedom of information
 
 # Useful Resources
 
-### [Effective Strategies for Group Work (Moodle Course)](https://moodle.gla.ac.uk/mod/url/view.php?id=1577148&redirect=1)
+<br>
+
+#### [Effective Strategies for Group Work (Moodle Course)](https://moodle.gla.ac.uk/mod/url/view.php?id=1577148&redirect=1)
 
 This moodle course walks you through great advice on getting the most out of (online) group work. Not only does evidence suggest that working with others can help your memory, but group work is also an essential skill for the workplace.
 
-### [IT Training Courses](https://www.gla.ac.uk/myglasgow/it/training/)
+#### [IT Training Courses](https://www.gla.ac.uk/myglasgow/it/training/)
 
 The university offers several courses on different aspects of IT literacy. Whilst theses courses are open to all students, they might be particularly useful for students enrolled in online courses.
 
-### [Microsoft Teams](https://www.microsoft.com/en-gb/microsoft-365/microsoft-teams/group-chat-software)
+#### [Microsoft Teams](https://www.microsoft.com/en-gb/microsoft-365/microsoft-teams/group-chat-software)
 
 Microsoft Teams is a communication platform that combines instant messaging , video meetings, and file storage. Teams is part of Office 365 to which you have access as a student (use your GUID to login).  Follow the link to install Teams on your device(s).
 
-If you would like to know more about how Teams works, then you can also watch this [demo video](https://teamsdemo.office.com/)
+If you would like to know more about how Teams works, then you can also watch this [demo video](https://teamsdemo.office.com/).
 
-### [Twitter](https://twitter.com/home)
+#### [Twitter](https://twitter.com/home)
 
 Stay connected with your academic community by following your fellow students and lecturers. Even if you are a remote learner, remember that you are still part of a vibrant community at the University of Glasgow any beyond. Stay up to date with the work that is going on and keep in contact with your peers. 
 
-### [Zoom: Information and User Guides](https://www.gla.ac.uk/myglasgow/anywhere/videomeetings/)
+#### [Zoom: Information and User Guides](https://www.gla.ac.uk/myglasgow/anywhere/videomeetings/)
 
 Zoom is a video conferencing platform with several features that might be useful if you are an online learner. You can share your screen with participants in the meeting (e.g. your study notes, a useful research article, a lecture recording), break off into smaller rooms (e.g. study groups), and private message each other. Follow this link for information on downloading and using Zoom to your advantage.

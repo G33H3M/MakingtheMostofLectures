@@ -22,7 +22,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 Here you will find some information on effective strategies in getting extra support on lecture content. Remember that just because you have a lecture recording doesn't mean that you have been left to your own devices. If you need extra support, then help is there for you.
 
+<br>
+
 ### What To Do If You Have a Persistant Issue With a Section of a Lecture?
+
+<br>
 
 #### Staff Office Hours
 
@@ -30,9 +34,13 @@ If you are having difficulties with any aspect of your (online and/or on-campus)
 
 https://www.gla.ac.uk/schools/
 
+<br>
+
 #### Peer Assisted Learning (PAL)
 
 Some Schools at the university offer a system in which older students are available to support younger students (and vice versa) with course related content. If you are struggling with some lecture content, why not take the lecture recording to a PAL session and see if a fellow student can support you in some way? To find out if your school offers PAL, contact your course convenor.
+
+<br>
 
 #### Create a Study Group
 

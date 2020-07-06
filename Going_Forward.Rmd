@@ -20,7 +20,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Reflection
 
+<br>
+
 ### Bonus Tutorial: Reflecting on Your Goals
+
+<br>
 
 #### What is reflection?
 
@@ -60,6 +64,8 @@ If the answer is no, then ask yourself:
 
 Have a look at the documents in the folder below this tutorial. You will see an example of a reflection grid; use this example alongside the blank template when you come to reflect on how well the skills you have learned in this course are working for you in real-life practice. Remember that they key to reflection is in honestly identifying what is working for you; what is not working for you; what you can do to maximise your success; and then implementing those changes. 
 
+<br>
+
 ### Bonus Task: Reflection Grid and Example
 
 Have a look at the reflective log example for some ideas on effective reflection. You should be reflecting on your weekly progress at regular intervals and setting time to collate your self-feedback in order to make ammendments for your week ahead.
@@ -71,7 +77,11 @@ Have a look at the reflective log example for some ideas on effective reflection
 
 # Overcoming Procrastination
 
+<br>
+
 If you have identified procrastination as a challenge in your personal reflection, have a look at this evidence-based technique to help you overcome it.
+
+<br>
 
 ### The Pomodoro Technique
 
@@ -79,11 +89,15 @@ If you have identified procrastination as a challenge in your personal reflectio
 
 * Watch this short animation to get a grip on what the pomodoro (Italian for _tomato_... all will be revealed) technique is.
 
+<br>
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqBuh4HWu8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
+
+<br>
 
 #### How can I use it?
 
@@ -95,11 +109,15 @@ If you have identified procrastination as a challenge in your personal reflectio
 
 #### Pomodoro Timer
 
+<br>
+
 <center>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1znjHDiqBk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
+
+<br>
 
 #### Additional Resources
 
@@ -114,6 +132,8 @@ To temporarily block and customise your access to websites on which you often wa
 To see where you spend your time, use this tracker that runs in the background of your computer (or mobile phone) to produce a report on what you are doing with your day.
 
 * https://www.rescuetime.com/plans
+
+<br>
 
 ### Pomodoro Infographics
 
