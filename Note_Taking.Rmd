@@ -16,11 +16,17 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
-# Task 1
+***
+
+# General Information
+
+<br>
+
+### Tutorial: An Overview of the Cornell Method
 
 To get a quick overview of what the Cornell Method of effective note taking is, take a look at this brief informative video.
 
-### An Overview of the Cornell MethodPage
+<br>
 
 <center>
 
@@ -33,6 +39,8 @@ Remember that after completing the exercises in this section, you can transfer w
 <br>
 
 # Resources
+
+<br> 
 
 ### Examples of Lecture Notes
 
@@ -49,13 +57,13 @@ After completing the exercises in this section, remember that you can always tra
 
 <br>
 
-# Task 2.1
+# Try a Pratice 'Lecture'
+
+<br>
+
+### Task 2.1: Watch This Video
 
 Watch _TED's secret to great public speaking_ as your practice lecture and try taking Cornell style notes using the blank template below.
-
-### Try a Pratice 'Lecture'
-
-Watch _TED's secret to great public speaking_ as your practice lecture and try taking Cornell style notes using the blank template on the next page.
 
 <center>
 
@@ -63,7 +71,9 @@ Watch _TED's secret to great public speaking_ as your practice lecture and try t
 
 </center>
 
-# Task 2.2
+# Blank Template 
+
+<br>
 
 ### Note-taking template for the Cornell Method
 

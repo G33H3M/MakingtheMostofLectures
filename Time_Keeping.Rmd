@@ -16,34 +16,43 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
+***
+
+# General Information
+
+<br>
+
+### Tutorial: Organising Your Time Around Your Lectures
+
 Before attempting the tasks below, have a quick read at this short tutorial on the importance of organising your time around lecture attendance. Your _attendance_ might involve going to the lecture hall or it might involve joining an online lecture with your fellow students. In both cases, your attendance is important, and you should prioritise time to engage with lecture materials (remotely and/or on campus).
 
-# Tutorial
-### Organising Your Time Around Your Lectures
+The aim of this tutorial is to get you to think about time management: scheduling, planning, and reviewing your time around lectures. We encourage you to set aside blocks of time dedicated to revising lecture content and to plan ahead to make sure you can attend your lectures on campus or from a [_virtual learning environment_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) (e.g. Zoom). Having a think about how your entire semester will look should help you to plan your week and set [_realistic goals_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html).
 
-The aim of this section is to get you to think about time management: scheduling, planning, and reviewing your time around lectures. We encourage you to set aside blocks of time dedicated to revising lecture content and to plan ahead to make sure you can attend your lectures on campus or from a [virtual learning environment](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) (e.g. Zoom). Having a think about how your entire semester will look should help you to plan your week and set [realistic goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html).
-
-For many students, being at university is an exciting time of change and new opportunities. You might find that learning at university is somewhat different from your experience of previous educational establishments and learning with lectures may be one of those differences. For many, being taught with lectures is something that you first experience at university. Your timetable will probably be sparser than when you were at school or college, and so you will have to undertake a lot more [independent studying](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html#time_management). The amount of independent study required, is also likely to increase as you progress to the later years of your degree.
+For many students, being at university is an exciting time of change and new opportunities. You might find that learning at university is somewhat different from your experience of previous educational establishments and learning with lectures may be one of those differences. For many, being taught with lectures is something that you first experience at university. Your timetable will probably be sparser than when you were at school or college, and so you will have to undertake a lot more [_independent studying_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html#time_management). The amount of independent study required, is also likely to increase as you progress to the later years of your degree.
 
 When devising a timetable, think about where you will be in each time block: an on-campus lecture hall, the library, your bedroom, or your dining room etc. Whilst good study habits involve working where you will not be too disturbed, this will look different for everyone. Indeed, it is important to reflect on what works for you: are you better sticking to a strict timetable, or does flexibility to work around your other commitments suit you better? Certain environments will help or hinder your studying (e.g. alone vs group; silent vs noisy). Remember that even if you are enrolled in a (predominantly) online course, you can still create a study group with your classmates (e.g. Zoom).
 
-Make sure you timetable some time at the end of your week to [review how your timetable is working](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) for you so you can make changes for the following week. When you get to the next section and you learn about [SMART goals](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html), you will want to timetable some time to review your goals too. 
+Make sure you timetable some time at the end of your week to [_review how your timetable is working_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) for you so you can make changes for the following week. When you get to the next section and you learn about [_**SMART** goals_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html), you will want to timetable some time to review your goals too. 
 
-Research has shown that students who actively organise their workloads and update their timetables and organisational styles to suit the demands of their course tend to outperform students who don't engage in this _metacognitive_ learning behaviour (thinking _explicitly_ about one's own learning).  For more information on reflecting on your progress, see the [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section.
+Research has shown that students who actively organise their workloads and update their timetables and organisational styles to suit the demands of their course tend to outperform students who don't engage in this _metacognitive_ learning behaviour (thinking _explicitly_ about one's own learning).  For more information on reflecting on your progress, see the [_Going Forward_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section.
 
-The following exercises should help you to organise your time in order to engage with your online and/ or on-campus lectures. After completing the exercises, you might want to transfer what you have learned onto a timetable app on your phone for convenience (see [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html)).
+The following exercises should help you to organise your time in order to engage with your online and/ or on-campus lectures. After completing the exercises, you might want to transfer what you have learned onto a timetable app on your phone for convenience (see [_additional resources_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html)).
 
 Keep in mind that, whilst organising your semester is best done at the start of the semester, the skills that you learn here can be implemented at any point in the semester. It is never too late to get started; wherever you are in the semester, put into practise what you learn on this course.
 
 <br>
 
-# Resources
+# Planners and Timetables
 
-In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your online and/or on-campus lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture (either online or in person), then you can use this slot to catchup on a missed lecture with a lecture recording. Whilst _attending_ a live lecture is most effective, it is preferable to catch up using a lecture recording than not at all. Remember that attending a live lecture might mean going to the lecture hall with your peers, or it might mean [getting online](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) to watch your lecture as your lecturer delivers it. Keep on top of your workload around your weekly lectures by planning ahead!
+<br>
+
+### Resources
+
+In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your online and/or on-campus lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture (either online or in person), then you can use this slot to catchup on a missed lecture with a lecture recording. Whilst _attending_ a live lecture is most effective, it is preferable to catch up using a lecture recording than not at all. Remember that attending a live lecture might mean going to the lecture hall with your peers, or it might mean [_getting online_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) to watch your lecture as your lecturer delivers it. Keep on top of your workload around your weekly lectures by planning ahead!
 
 ### Planner Examples
 
-In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture, then you can use this slot to catchup on a missed lecture. Whilst _attending_ a live lecture is most effective, it is preferable to catch up with a lecture recording than not at all. Remember that attending a live lecture might mean going to the lecture hall with your peers, or it might mean [getting online](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) to watch your lecture as your lecturer delivers it. Keep on top of your workload around your weekly lectures by planning ahead! 
+In this folder you will find a planner, which you can customise for each week of the semester, and a planner that will detail your key deadlines throughout the semester (see your courses' handbooks for the key deadlines). Using these planners together will give you an overview of your semester and will allow you to effectively plan your weekly workload to ensure you meet your deadlines. A good idea is to timetable a few slots throughout your week where you can revisit specific parts of your lectures to consolidate your learning. Of course, if for some reason you have to miss a lecture, then you can use this slot to catchup on a missed lecture. Whilst _attending_ a live lecture is most effective, it is preferable to catch up with a lecture recording than not at all. Remember that attending a live lecture might mean going to the lecture hall with your peers, or it might mean [_getting online_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) to watch your lecture as your lecturer delivers it. Keep on top of your workload around your weekly lectures by planning ahead! 
 
 * [Example of a Semester Planner](downloads/Timetable_Semester_Example.pdf)
 
@@ -51,7 +60,10 @@ In this folder you will find a planner, which you can customise for each week of
 
 <br>
 
-# Tasks
+# Making your own Planners
+
+<br>
+
 ### Task 1: Complete Your Semester Planner
 
 * [Blank Template for a Semester Planner](downloads/Timetable_Semester.docx)
@@ -64,4 +76,4 @@ In this folder you will find a planner, which you can customise for each week of
 
 # Going Forward
 
-The [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
+The [_Going Forward_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

@@ -16,6 +16,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
+***
+
 # Information
 
 Here you will find some information on effective strategies in getting extra support on lecture content. Remember that just because you have a lecture recording doesn't mean that you have been left to your own devices. If you need extra support, then help is there for you.

@@ -16,7 +16,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
+***
+
 # Tutorial
+
+<br>
 
 For most students, exams are an unavoidable part of university. Have you ever wondered how best to study with your lecture materials? Have a quick read of this short tutorial before attempting the following exercises.
 
@@ -52,6 +56,8 @@ Using your [revision grid](https://grahamreidpsychology.github.io/MakingtheMosto
 
 # Task 1
 
+<br>
+
 ### An Introduction to Spaced Repetition
 
 For an overview of what spaced repetition is and its importance for students, take a look at this quick informative video.
@@ -65,6 +71,8 @@ For an overview of what spaced repetition is and its importance for students, ta
 <br>
 
 # Resources
+
+<br>
 
 In this spreadsheet, at the bottom there is a page for each lecture (you could have a different excel document for each of your courses). Within each page, there is a column on the far left where you can add key questions from the lectures. A good way to identify the key things you should know in order to test yourself is to turn each lecture's **ILOs** (_intended learning outcomes_) into questions. When you come to revise, you should _test your ability to answer these questions without looking at your notes_. If you do well, you could highlight the testing column in green. If you struggled and had to look at your notes, maybe highlight the column in orange. And if you had no idea where to start, maybe highlight it in red. This is a good way to track your knowledge for each lecture and your ability to recall information without looking at your notes. In so doing, you will be able to target your revision to the most difficult parts of a lecture. 
 
@@ -80,6 +88,8 @@ For the problematic questions, look at the [**SMART** goal](https://grahamreidps
 <br>
 
 # Task 2
+
+<br>
 
 ### Create Your Own Spaced Revision Grid
 
