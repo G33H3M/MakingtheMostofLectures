@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Going Forward</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"> </a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="Time_Keeping.html">Time Keeping</a>
+</li>
+<li>
+  <a href="Goal_Setting.html">Goal Setting</a>
+</li>
+<li>
+  <a href="Note_Taking.html">Note Taking</a>
+</li>
+<li>
+  <a href="Revising.html">Revising</a>
+</li>
+<li>
+  <a href="Seeking_Help.html">Seeking Help</a>
+</li>
+<li>
+  <a href="Additional_Resources.html">Additional Resources</a>
+</li>
+<li>
+  <a href="Going_Forward.html">Going Forward</a>
+</li>
+<li>
+  <a href="Online_Learning.html">Online Learning</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Going Forward</h1>
+
+</div>
+
+
+<p><br></p>
+<div id="reflection" class="section level1">
+<h1>Reflection</h1>
+<div id="bonus-tutorial-reflecting-on-your-goals" class="section level3">
+<h3>Bonus Tutorial: Reflecting on Your Goals</h3>
+<div id="what-is-reflection" class="section level4">
+<h4>What is reflection?</h4>
+<ul>
+<li>A process in which learners monitor and regulate their own learning progress independently. By reflecting on how you have implemented the skills that you have learned in this course, not only will you further develop those skills, but you will learn to evaluate how effective they are for you. In so doing, you will avoid continuing with habits that don’t work for you by implementing better ones.</li>
+</ul>
+</div>
+<div id="why-reflect" class="section level4">
+<h4>Why reflect?</h4>
+<ul>
+<li>You will learn about your individual learning styles and individual values as a student and will be more able to tailor your goals and strategies to your needs and skills.</li>
+<li>It will help you work against the uncritical use of ineffective learning strategies.</li>
+<li>You will develop your problem-solving skills as you generate solutions to any challenges you have faced.</li>
+<li>You will be more productive as your streamline your learning.</li>
+<li>You are learning the key skill of critical thinking, which you will use frequently during your time at university.</li>
+</ul>
+</div>
+<div id="how-does-this-look" class="section level4">
+<h4>How does this look?</h4>
+<p>Ideally throughout your week (or at the end of the week), you will review how your timetable, goals, notetaking, and revision are working for you. If you have set measurable goals, you can start your reflection by asking if you have successfully completed these goals. If the answer is yes, then ask yourself why you managed them:</p>
+<ul>
+<li>Which factors facilitated your completion of the goals?</li>
+<li>Which environments were most conducive to your success (for example library or home)?</li>
+<li>Could you implement what helped you in one goal to complete another future goal?</li>
+</ul>
+<p>If the answer is no, then ask yourself:</p>
+<ul>
+<li>How were you stopped from reaching your goal?</li>
+<li>How will you avoid making the same mistakes in the week to come?</li>
+<li>Which resources can you get a hold of to help you improve your timetable, goals, and revision?</li>
+<li>Is there anyone that you could ask for some advice?</li>
+</ul>
+</div>
+<div id="key-questions-to-ask" class="section level4">
+<h4>Key Questions to Ask</h4>
+<ol style="list-style-type: decimal">
+<li>What have I achieved this week and how?</li>
+<li>What were the factors that helped me to be successful?</li>
+<li>What are my strengths as an individual that helped me meet my goals?</li>
+<li>What didn’t work so well for me that I can change easily for next week?</li>
+</ol>
+</div>
+<div id="next-steps" class="section level4">
+<h4>Next Steps</h4>
+<p>Have a look at the documents in the folder below this tutorial. You will see an example of a reflection grid; use this example alongside the blank template when you come to reflect on how well the skills you have learned in this course are working for you in real-life practice. Remember that they key to reflection is in honestly identifying what is working for you; what is not working for you; what you can do to maximise your success; and then implementing those changes.</p>
+</div>
+</div>
+<div id="bonus-task-reflection-grid-and-example" class="section level3">
+<h3>Bonus Task: Reflection Grid and Example</h3>
+<p>Have a look at the reflective log example for some ideas on effective reflection. You should be reflecting on your weekly progress at regular intervals and setting time to collate your self-feedback in order to make ammendments for your week ahead.</p>
+<ul>
+<li><a href="downloads/reflection_example.pdf">Example of Reflection</a></li>
+<li><a href="downloads/reflection_template.docx">Blank Reflection Template</a></li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="overcoming-procrastination" class="section level1">
+<h1>Overcoming Procrastination</h1>
+<p>If you have identified procrastination as a challenge in your personal reflection, have a look at this evidence-based technique to help you overcome it.</p>
+<div id="the-pomodoro-technique" class="section level3">
+<h3>The Pomodoro Technique</h3>
+<div id="what-is-it" class="section level4">
+<h4>What is it?</h4>
+<ul>
+<li>Watch this short animation to get a grip on what the pomodoro (Italian for <em>tomato</em>… all will be revealed) technique is.</li>
+</ul>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WqBuh4HWu8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+</div>
+<div id="how-can-i-use-it" class="section level4">
+<h4>How can I use it?</h4>
+<ul>
+<li>With your <a href="https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html">timetable</a> and <a href="https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html"><strong>SMART</strong> goals</a> for each course at hand, break down your tasks into small chunks of 25 minutes + 5 minutes break. You would have two pomodoro chunks per hour on your timetable.</li>
+<li>Say you have a particular lecture for which you want to create flashcards. Firstly, decide on where and when you want to work on this task (based on your reflection). Your <strong>SMART</strong> goal details that you want to create 15 flashcards for this lecture based on 5 ILOs. You need to change the ILOs into questions and then you need to use your <a href="https://grahamreidpsychology.github.io/MakingtheMostofLectures/Note_Taking.html">notes</a> to find the answers to the questions. Of course, you would try to answer the questions before looking at your lecture notes (<a href="https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#evidence-based_learning_and_study_strategies">active recall</a>). For 25 minutes, you work on making flashcards. You are able to make 5 amazing flashcards in this time period. You would need about 3 pomodoro chunks to complete this task.</li>
+<li>Set a timer on your phone (or use the link below if you are really committed and don’t want to look at your phone at all) and work for 25 minutes without any distractions. After the 25 minutes, take note of your progress (for <a href="https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html#reflection">reflection</a>) and have a 5 minutes break.</li>
+<li>Repeat this twice within your hour chunk on the timetable. However, you might find that working in pomodoro chunks is more effective that sticking to hour blocks on the timetable. In this case, you could fill you timetable with tasks to be done each day (ignoring time blocks) and work your way through them in pomodoro chunks.</li>
+<li>As you implement these skills, it will become apparent what works well for you and what doesn’t. When you have identified this, update your planner and skills accordingly.</li>
+</ul>
+</div>
+<div id="pomodoro-timer" class="section level4">
+<h4>Pomodoro Timer</h4>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1znjHDiqBk8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</center>
+</div>
+<div id="additional-resources" class="section level4">
+<h4>Additional Resources</h4>
+<p>To manage your workflow in a pomodoro way, have a look at pomotodo. It is available as a chrome extension, computer app, and mobile app.</p>
+<ul>
+<li><a href="https://pomotodo.com/intl/en/" class="uri">https://pomotodo.com/intl/en/</a></li>
+</ul>
+<p>To temporarily block and customise your access to websites on which you often waste time, try this chrome extension.</p>
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en" class="uri">https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en</a></li>
+</ul>
+<p>To see where you spend your time, use this tracker that runs in the background of your computer (or mobile phone) to produce a report on what you are doing with your day.</p>
+<ul>
+<li><a href="https://www.rescuetime.com/plans" class="uri">https://www.rescuetime.com/plans</a></li>
+</ul>
+</div>
+</div>
+<div id="pomodoro-infographics" class="section level3">
+<h3>Pomodoro Infographics</h3>
+<ul>
+<li><a href="downloads/pomodoro.png">Infographic Number One</a></li>
+<li><a href="downloads/pomodoro_2.jpg">Infographic Number Two</a></li>
+</ul>
+<p><br></p>
+</div>
+</div>
+<div id="infographic-course-summary" class="section level1">
+<h1>Infographic Course Summary</h1>
+<p>Have a look at this infographic summary of best practice and evidence-based advice when using lectures and lecture recordings.</p>
+<p>The different sections of this course have been created to help you implement the advice given in this visual summary.</p>
+<ul>
+<li><a href="downloads/visual_nordmann.pdf">Infographic</a></li>
+</ul>
+<p><br></p>
+</div>
+<div id="course-checklist" class="section level1">
+<h1>Course Checklist</h1>
+<p>Here you will find a summary of everything you will have learned after completing this Moodle course. You could use it as a checklist to monitor how much you have learned, or even as a springboard for further research and investigation into effective study strategies.</p>
+<ul>
+<li><a href="downloads/checklist.docx">Checklist</a></li>
+</ul>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
