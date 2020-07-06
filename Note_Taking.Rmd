@@ -34,7 +34,7 @@ Whether you are engaging with on-campus or online lectures, it is likely that yo
 
 </center>
 
-Remember that after completing the exercises in this section, you can transfer what you learn onto a mobile/ computer app (see [additional resources](https://g33h3m.github.io/MakingtheMostofLectures/Additional_Resources.html)).
+Remember that after completing the exercises in this section, you can transfer what you learn onto a mobile/ computer app (see [_additional resources_](https://g33h3m.github.io/MakingtheMostofLectures/Additional_Resources.html)).
 
 <br>
 
@@ -44,13 +44,13 @@ Remember that after completing the exercises in this section, you can transfer w
 
 ### Resources
 
-Hopefully, the short video has shown you the utility of taking efficient notes during your [online](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) and/or on-campus lectures. Looking at the example of Cornell notes in this folder, you will see some bullet points in the left margin that are dedicated to the later use of lecture recording. 
+Hopefully, the short video has shown you the utility of taking efficient notes during your [_online_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Online_Learning.html) and/or on-campus lectures. Looking at the example of Cornell notes in this folder, you will see some bullet points in the left margin that are dedicated to the later use of lecture recording. 
 
 In an initial lecture (on campus or virtual), if you identify a difficult concept, jot down the slide and rough time so that you can review the specific part of the recording later.
 
 When note-taking try to organise your notes in your own words and in your own way. Connect new information to old information and jot that connection down to help it stick in your memory.
 
-After completing the exercises in this section, remember that you can always transfer your knowledge and skills onto a computer/ mobile app for convenience (see [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#note_taking)).
+After completing the exercises in this section, remember that you can always transfer your knowledge and skills onto a computer/ mobile app for convenience (see [_additional resources_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#note_taking)).
 
 * [Example of Cornell Notes](downloads/Cornell_Notes_Example.pdf
 )
@@ -87,4 +87,4 @@ Watch _TED's secret to great public speaking_ as your practice lecture and try t
 
 # Going Forward
 
-The [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
+The [_Going Forward_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.

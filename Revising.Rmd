@@ -26,8 +26,6 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 For most students, exams are an unavoidable part of university. Have you ever wondered how best to study with your lecture materials? Have a quick read of this short tutorial before attempting the following exercises.
 
-### How to Revise with Lecture Recordings
-
 Research has shown that the best way to engage and revise your courses is to do **small chunks over a lengthy period of time**. This means that cramming your revision at the end of the semester, during the study period, is likely to be ineffective.
 
 Instead, you should learn as you go along by actively interacting with the lecture materials (slides and recordings) over increasingly longer intervals. When doing this, it is best to test your knowledge, rather than re-read your notes or re-watch the course's lecture recordings.
@@ -54,9 +52,9 @@ But remember, you learn by testing yourself; you don't learn by practising readi
 
 Although different courses and different levels of study use different exam formats (e.g. online or on campus), the advice for revising with lecture content is the same. In most circumstances you will be required to actively recall what you have learned through your lectures, so you should revise by _testing yourself_ on this material.
 
-Remember that you can always transfer what you learn here to a computer/ mobile app for convenience (see [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html)).
+Remember that you can always transfer what you learn here to a computer/ mobile app for convenience (see [_additional resources_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html)).
 
-Using your [revision grid](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html#resources) (continue working through this section to see the grid) in conjunction with your [timetable](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) and [**SMART** goal knowledge](https://g33h3m.github.io/MakingtheMostofLectures/Goal_Setting.html), you should take time to reflect on your revision. Are you meeting your measurable outcomes? Are you completing your goals within your timeframe? Do you need to study in a different environment? Add some reflection time to your weekly planner to see if your **SMART** revision is paying off.
+Using your [_revision grid_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Revising.html#resources) (continue working through this section to see the grid) in conjunction with your [_timetable_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Time_Keeping.html) and [_**SMART** goal knowledge_](https://g33h3m.github.io/MakingtheMostofLectures/Goal_Setting.html), you should take time to reflect on your revision. Are you meeting your measurable outcomes? Are you completing your goals within your timeframe? Do you need to study in a different environment? Add some reflection time to your weekly planner to see if your **SMART** revision is paying off.
 
 <br>
 
@@ -84,7 +82,7 @@ For an overview of what spaced repetition is and its importance for students, ta
 
 In this spreadsheet, at the bottom there is a page for each lecture (you could have a different excel document for each of your courses). Within each page, there is a column on the far left where you can add key questions from the lectures. A good way to identify the key things you should know in order to test yourself is to turn each lecture's **ILOs** (_intended learning outcomes_) into questions. When you come to revise, you should _test your ability to answer these questions without looking at your notes_. If you do well, you could highlight the testing column in green. If you struggled and had to look at your notes, maybe highlight the column in orange. And if you had no idea where to start, maybe highlight it in red. This is a good way to track your knowledge for each lecture and your ability to recall information without looking at your notes. In so doing, you will be able to target your revision to the most difficult parts of a lecture. 
 
-For the problematic questions, look at the [**SMART** goal](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) section of this course and think about how you will improve your understanding of the topic, using a *specific*, *measurable*, *achievable*, *realistic*, and *time-bound* goals. Your goals should detail the lecture materials you will use and the memory techniques that you will use to get a grasp on the topic. You could then add your goal into your weekly planner. For more advice on effective revision, see the [additional resources](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#revising) section.
+For the problematic questions, look at the [_**SMART** goal_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Goal_Setting.html) section of this course and think about how you will improve your understanding of the topic, using a *specific*, *measurable*, *achievable*, *realistic*, and *time-bound* goals. Your goals should detail the lecture materials you will use and the memory techniques that you will use to get a grasp on the topic. You could then add your goal into your weekly planner. For more advice on effective revision, see the [_additional resources_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Additional_Resources.html#revising) section.
 
 ### Resources
 
@@ -107,4 +105,4 @@ For the problematic questions, look at the [**SMART** goal](https://grahamreidps
 
 # Going Forward
 
-The [Going Forward](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
+The [_Going Forward_](https://grahamreidpsychology.github.io/MakingtheMostofLectures/Going_Forward.html) section contains a useful [checklist](downloads/checklist.docx) for keeping track of how much you have learned from this topic.
