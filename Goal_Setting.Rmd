@@ -22,7 +22,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 <br>
 
-### Tutorial 1: Building SMART Lecture Goals into Your Planner
+### Tutorial 1: Building SMART Goals into Your Planner
 
 Now that you have an idea of how your semester will look and when your key deadlines are, you have a timeframe in which you can create **SMART** goals for interacting with your lecture content. **SMART** stands for:
 
@@ -92,7 +92,7 @@ To get a quick overview of what **SMART** goals are, take a look at this informa
 
 <br>
 
-# Examples of (not so) SMART Lecture Goals
+# Examples of (not so) SMART Goals
 
 <br> 
 
@@ -108,7 +108,7 @@ Compare and contrast the two examples of **SMART** goals. The bad example is not
 
 <br>
 
-# Making your Own SMART Lecture Goals
+# Making your Own SMART Goals
 
 <br>
 
